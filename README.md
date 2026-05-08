@@ -2,16 +2,16 @@
 
 ## 个人参与整合的字幕
 
-- 2026
+- [2026](/2026)
 
 ## 使用 AI 进行字幕翻译的指引
 
-- AI 字幕翻译指引
-- AI 字幕校对指引
+- [AI 字幕翻译指引](ai-subtitle-translation-instructions.md)
+- [AI 字幕校对指引](ai-subtitle-proofreading-instructions.md)
 
 ## 双语字幕相关
 
-- 双语字幕合并模板
+- [双语字幕合并模板](latest-bilingual-subtitle-template.ass)
 
 ## 字幕工具
 
