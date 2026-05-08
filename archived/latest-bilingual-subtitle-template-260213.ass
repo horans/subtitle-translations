@@ -1,0 +1,600 @@
+﻿[Script Info]
+Title: Bilingual subtitle file
+Script Updated By: horan
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: no
+YCbCr Matrix: None
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,KaiTi,18,&H00FFFFFF,&HF0000000,&H00000000,&H32000000,0,0,0,0,100,100,0,0,1,2,1,2,5,5,5,134
+Style: Merged,Arial,11,&H54FFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,5,5,5,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.25,0:00:05.92,*Default,NTP,0,0,0,,{\rMerged}[♪ classical music playing]
+Dialogue: 0,0:00:19.39,0:00:23.14,*Default,NTP,0,0,0,,{\rMerged}[electricity buzzes]
+Dialogue: 0,0:00:32.40,0:00:36.53,*Default,NTP,0,0,0,,{\rMerged}[♪ piano playing]
+Dialogue: 0,0:00:41.20,0:00:45.25,*Default,NTP,0,0,0,,{\rMerged}[snoring]
+Dialogue: 0,0:00:46.00,0:00:48.09,Default,,0,0,0,,（科米）
+Dialogue: 0,0:00:49.17,0:00:50.17,*Default,NTP,0,0,0,,{\rMerged}-[chair creaks] -Mmm.
+Dialogue: 0,0:00:51.51,0:00:56.34,*Default,NTP,0,0,0,,{\rMerged}[breathes heavily] Mmm. Hmm.
+Dialogue: 0,0:00:57.72,0:00:58.73,Default,,0,0,0,,什么事？\N{\rMerged}-Oh. -What?
+Dialogue: 0,0:00:58.81,0:00:59.81,Default,,0,0,0,,-罗夫？ -什么事？\N{\rMerged}-Rowlf? -What?
+Dialogue: 0,0:00:59.89,0:01:02.44,Default,,0,0,0,,你这段时间都在弹琴吗？\N{\rMerged}Have you been playing this whole time?
+Dialogue: 0,0:01:03.19,0:01:04.27,Default,,0,0,0,,你以为是什么？\N{\rMerged}Well, what did you think it was?
+Dialogue: 0,0:01:04.36,0:01:06.57,Default,,0,0,0,,你脑海中的怀旧集锦吗？\N{\rMerged}Some kinda sentimental montage in your head?
+Dialogue: 0,0:01:06.65,0:01:08.03,Default,,0,0,0,,我们又要表演了，青蛙\N{\rMerged}-[mutters] -We're doing the show again, frog.
+Dialogue: 0,0:01:08.53,0:01:09.53,Default,,0,0,0,,对哦\N{\rMerged}[gasps] Oh, that's right. Uh…
+Dialogue: 0,0:01:09.61,0:01:11.36,Default,,0,0,0,,斯库特，时候到了\N{\rMerged}Scooter, it's time.
+Dialogue: 0,0:01:11.45,0:01:12.61,Default,,0,0,0,,没问题，老大\N{\rMerged}You got it, boss.
+Dialogue: 0,0:01:15.33,0:01:18.83,Default,,0,0,0,,莎宾娜卡本特，30秒后开演，卡本特小姐\N{\rMerged}Sabrina Carpenter. Thirty seconds to curtain, Ms. Carpenter.
+Dialogue: 0,0:01:18.91,0:01:20.16,Default,,0,0,0,,卡本特小姐？\N{\rMerged}Ms. Carpenter?
+Dialogue: 0,0:01:20.25,0:01:21.33,Default,,0,0,0,,谢谢你，斯库特\N{\rMerged}Thank you, Scooter.
+Dialogue: 0,0:01:21.83,0:01:25.75,Default,,0,0,0,,天啊，是你，我好爱你的衣服\N{\rMerged}Oh, my God. It's you. I love your outfit. [chuckles]
+Dialogue: 0,0:01:25.84,0:01:28.30,Default,,0,0,0,,我也是，你得换衣服\N{\rMerged}So do I. You're gonna have to change.
+Dialogue: 0,0:01:28.38,0:01:29.67,Default,,0,0,0,,是，女士\N{\rMerged}Yes, ma'am.
+Dialogue: 0,0:01:29.76,0:01:30.80,Default,,0,0,0,,那是我的假发吗？\N{\rMerged}Is that my wig?
+Dialogue: 0,0:01:32.05,0:01:34.51,Default,,0,0,0,,我不戴假发的，这是我的真发\N{\rMerged}I don't wear wigs. This is my real hair.
+Dialogue: 0,0:01:35.35,0:01:36.89,Default,,0,0,0,,我也一样\N{\rMerged}Oh. Yeah. Same.
+Dialogue: 0,0:01:36.97,0:01:38.68,Default,,0,0,0,,-不，我…我知道 -不，我知道你知道\N{\rMerged}-No, I… And I know that. -No, I know you know.
+Dialogue: 0,0:01:38.77,0:01:40.06,Default,,0,0,0,,-很好 -好\N{\rMerged}-Great. -Okay.
+Dialogue: 0,0:01:40.14,0:01:41.85,*Default,NTP,0,0,0,,{\rMerged}[trumpet blares]
+Dialogue: 0,0:01:41.94,0:01:43.06,Default,,0,0,0,,《大青蛙布偶秀：特别场》
+Dialogue: 0,0:01:43.15,0:01:47.94,Default,,0,0,0,,欢迎观赏《大青蛙布偶秀：特别场》 特别嘉宾是莎宾娜卡本特\N{\rMerged}It's The Muppet Show with our very special guest star, Sabrina Carpenter. [cheers]
+Dialogue: 0,0:01:48.77,0:01:49.77,*Default,NTP,0,0,0,,{\rMerged}[audience cheers]
+Dialogue: 0,0:01:49.86,0:01:55.36,*Default,NTP,0,0,0,,{\rMerged}[♪ "The Muppet Show Theme Song" playing]
+Dialogue: 0,0:02:02.00,0:02:06.08,Default,,0,0,0,,该演奏音乐，该点亮灯光\N{\rMerged}♪ It's time to play the music It's time to light the lights ♪
+Dialogue: 0,0:02:06.17,0:02:09.21,Default,,0,0,0,,该见见今晚登场的布偶了\N{\rMerged}♪ It's time to meet the Muppets On The Muppet Show tonight ♪
+Dialogue: 0,0:02:10.34,0:02:14.43,Default,,0,0,0,,该化好妆容，该好好打扮\N{\rMerged}♪ It's time to put on makeup It's time to dress up right ♪
+Dialogue: 0,0:02:14.51,0:02:17.68,Default,,0,0,0,,该揭开今晚《大青蛙布偶秀》的序幕了\N{\rMerged}♪ It's time to raise the curtain On The Muppet Show tonight ♪
+Dialogue: 0,0:02:18.26,0:02:20.27,Default,,0,0,0,,我们干嘛老是来这里？\N{\rMerged}♪ Why do we always come here? ♪
+Dialogue: 0,0:02:20.35,0:02:22.35,Default,,0,0,0,,这个问题大概永远无解\N{\rMerged}♪ I guess we'll never know ♪
+Dialogue: 0,0:02:22.43,0:02:24.44,Default,,0,0,0,,被迫看这场秀\N{\rMerged}♪ It's like a kind of torture ♪
+Dialogue: 0,0:02:24.52,0:02:25.85,Default,,0,0,0,,有点像酷刑\N{\rMerged}♪To have to watch the show ♪
+Dialogue: 0,0:02:28.06,0:02:32.11,*Default,NTP,0,0,0,,{\rMerged}[music continues]
+Dialogue: 0,0:02:32.19,0:02:34.20,Default,,0,0,0,,但现在让我们开演吧\N{\rMerged}♪ But now let's get things started ♪
+Dialogue: 0,0:02:34.28,0:02:36.24,Default,,0,0,0,,你们快开演吧\N{\rMerged}♪ Why don't you get things started? ♪
+Dialogue: 0,0:02:36.32,0:02:38.16,Default,,0,0,0,,该开演了\N{\rMerged}♪ It's time to get things started ♪
+Dialogue: 0,0:02:38.24,0:02:42.41,Default,,0,0,0,,最令人惊叹、鼓舞人心 欢欣喜悦、布偶天成\N{\rMerged}♪ On the most sensational, inspirational Celebrational, Muppetational ♪
+Dialogue: 0,0:02:42.50,0:02:49.17,Default,,0,0,0,,这就是我们的《大青蛙布偶秀》\N{\rMerged}♪ This is what we call The Muppet Show ♪
+Dialogue: 0,0:02:49.25,0:02:50.67,*Default,NTP,0,0,0,,{\rMerged}[trumpet screeches]
+Dialogue: 0,0:02:50.75,0:02:52.50,*Default,NTP,0,0,0,,{\rMerged}[audience laughs]
+Dialogue: 0,0:02:52.58,0:02:53.75,*Default,NTP,0,0,0,,{\rMerged}[screams]
+Dialogue: 0,0:02:53.84,0:02:56.30,*Default,NTP,0,0,0,,{\rMerged}[audience cheering]
+Dialogue: 0,0:02:56.39,0:02:59.81,Default,,0,0,0,,谢谢…谢谢\N{\rMerged}Thank you. Thank you. [mutters] Uh, thank you. [chuckles]
+Dialogue: 0,0:03:00.47,0:03:02.93,Default,,0,0,0,,大家好，欢迎观赏《大青蛙布偶秀》\N{\rMerged}Hi-ho, and welcome to The Muppet Show, everybody.
+Dialogue: 0,0:03:03.01,0:03:04.43,*Default,NTP,0,0,0,,{\rMerged}[audience cheering]
+Dialogue: 0,0:03:04.52,0:03:09.15,Default,,0,0,0,,我们很高兴能回到这个舞台 一切就是从这里开始\N{\rMerged}You know, we are so excited to be back on the very stage where it all started,
+Dialogue: 0,0:03:09.23,0:03:10.86,Default,,0,0,0,,然后结束，然后\N{\rMerged}and then ended, and then,
+Dialogue: 0,0:03:10.94,0:03:13.99,Default,,0,0,0,,可能会再次开始，看今晚表现如何啰\N{\rMerged}is maybe starting again depending on how tonight goes.
+Dialogue: 0,0:03:14.70,0:03:17.07,Default,,0,0,0,,他们居然要重演老戏码\N{\rMerged}Hmph. I can't believe they're doing the old show again.
+Dialogue: 0,0:03:17.16,0:03:18.41,Default,,0,0,0,,好好的何必改\N{\rMerged}Well, if it ain't broke.
+Dialogue: 0,0:03:18.49,0:03:21.33,Default,,0,0,0,,不，他们是好穷，所以才会来表演\N{\rMerged}No, they are broke. That's why they're doing it.
+Dialogue: 0,0:03:21.41,0:03:23.32,*Default,NTP,0,0,0,,{\rMerged}-[laughs] -[audience laughs]
+Dialogue: 0,0:03:23.41,0:03:25.04,Default,,0,0,0,,好，为我们开场的是\N{\rMerged}Okay. Now to kick us off,
+Dialogue: 0,0:03:25.12,0:03:26.71,Default,,0,0,0,,我们的特别来宾\N{\rMerged}it's our very special guest,
+Dialogue: 0,0:03:26.79,0:03:30.29,Default,,0,0,0,,轰动乐坛的创作歌手，世界级的巨星\N{\rMerged}a sensational singer-songwriter and global superstar,
+Dialogue: 0,0:03:30.38,0:03:35.22,Default,,0,0,0,,独一无二的莎宾娜卡本特\N{\rMerged}-the one and only, Sabrina Carpenter. Yay! -[audience cheers]
+Dialogue: 0,0:03:35.29,0:03:37.55,*Default,NTP,0,0,0,,{\rMerged}[laughing, clamoring]
+Dialogue: 0,0:03:38.05,0:03:40.93,Default,,0,0,0,,安静点，一群混混\N{\rMerged}Ugh. Quiet. [groans] Hooligans.
+Dialogue: 0,0:03:41.01,0:03:42.14,Default,,0,0,0,,快点，丢他\N{\rMerged}Do it. Do it. Toss. [laughs]
+Dialogue: 0,0:03:42.22,0:03:43.39,*Default,NTP,0,0,0,,{\rMerged}[yelps, grunts]
+Dialogue: 0,0:03:43.89,0:03:46.05,*Default,NTP,0,0,0,,{\rMerged}[laughing]
+Dialogue: 0,0:03:46.14,0:03:47.81,Default,,0,0,0,,住手，否则赶你们出去\N{\rMerged}Stop, or you'll be removed.
+Dialogue: 0,0:03:49.44,0:03:50.94,Default,,0,0,0,,别担心，山姆，交给我\N{\rMerged}Don't worry, Sam. I got it.
+Dialogue: 0,0:03:51.64,0:03:53.98,*Default,NTP,0,0,0,,{\rMerged}[♪ "Manchild" playing]
+Dialogue: 0,0:03:54.06,0:03:56.77,*Default,NTP,0,0,0,,{\rMerged}[laughing]
+Dialogue: 0,0:03:58.66,0:04:02.83,Default,,0,0,0,,你说手机坏了，其实是忘了充电\N{\rMerged}♪ You said your phone was broken Just forgot to charge it ♪
+Dialogue: 0,0:04:02.91,0:04:06.62,Default,,0,0,0,,你这身行头，天啊，希望你是在搞笑\N{\rMerged}♪ Whole outfit you're wearing God, I hope it's ironic ♪
+Dialogue: 0,0:04:06.71,0:04:10.42,Default,,0,0,0,,你刚说你完事了？ 我都不知道我们开始了\N{\rMerged}♪ Did you just say you're finished? Didn't know we started ♪
+Dialogue: 0,0:04:10.50,0:04:14.80,Default,,0,0,0,,这一切都太熟悉了，宝贝，是什么来着？\N{\rMerged}♪ It's all just so familiar, baby What do you call it? ♪
+Dialogue: 0,0:04:16.09,0:04:17.30,Default,,0,0,0,,-愚蠢 -咕咕\N{\rMerged}-♪ Stupid ♪ -♪ Cluck-cluck ♪
+Dialogue: 0,0:04:18.05,0:04:21.34,Default,,0,0,0,,-还是迟钝？ -咕\N{\rMerged}-♪ Or is it slow? ♪ -♪ Cluck ♪
+Dialogue: 0,0:04:21.93,0:04:25.52,Default,,0,0,0,,-也许是没用？ -咕咕\N{\rMerged}-♪ Maybe it's useless? ♪ -♪ Cluck-cluck ♪
+Dialogue: 0,0:04:26.27,0:04:27.52,Default,,0,0,0,,但有个更可爱的词\N{\rMerged}♪ But there's a cuter word for it ♪
+Dialogue: 0,0:04:27.60,0:04:29.06,Default,,0,0,0,,-咕？ -我知道\N{\rMerged}-♪ Cluck? ♪ -♪ I know ♪
+Dialogue: 0,0:04:29.98,0:04:33.61,Default,,0,0,0,,巨婴男\N{\rMerged}-♪ Manchild ♪ -[chickens vocalizing]
+Dialogue: 0,0:04:33.69,0:04:37.32,Default,,0,0,0,,你为什么总是跑来找我？\N{\rMerged}♪ Why you always come a-running to me? ♪
+Dialogue: 0,0:04:37.82,0:04:41.24,Default,,0,0,0,,我还要过活\N{\rMerged}♪ It's my life ♪
+Dialogue: 0,0:04:41.32,0:04:44.95,Default,,0,0,0,,饶了这个无辜的女人吧\N{\rMerged}♪ Won't you let an innocent woman be ♪
+Dialogue: 0,0:04:45.45,0:04:47.45,Default,,0,0,0,,从没听过“自我照顾”\N{\rMerged}♪ Never heard of self-care ♪
+Dialogue: 0,0:04:47.53,0:04:48.53,*Default,NTP,0,0,0,,{\rMerged}[yells]
+Dialogue: 0,0:04:49.33,0:04:51.50,Default,,0,0,0,,你的脑容量只有一半\N{\rMerged}♪ Half your brain just ain't there ♪
+Dialogue: 0,0:04:52.16,0:04:53.08,*Default,NTP,0,0,0,,{\rMerged}Whoa.
+Dialogue: 0,0:04:53.17,0:04:56.92,Default,,0,0,0,,巨婴男\N{\rMerged}-♪ Manchild ♪ -[exclaiming]
+Dialogue: 0,0:04:57.01,0:05:01.01,Default,,0,0,0,,你为什么总是跑来找我？打消我所有的\N{\rMerged}♪ Why you always come a-running Taking all my ♪
+Dialogue: 0,0:05:01.09,0:05:04.76,Default,,0,0,0,,我喜欢男生搞点欲擒故纵\N{\rMerged}♪ Oh, I like my boys playing hard to get ♪
+Dialogue: 0,0:05:04.85,0:05:08.77,Default,,0,0,0,,也喜欢男人软弱无能\N{\rMerged}♪ And I like my men all incompetent ♪
+Dialogue: 0,0:05:08.85,0:05:12.52,Default,,0,0,0,,我发誓是他们选了我，不是我选了他们\N{\rMerged}♪ And I swear they choose me I'm not choosing them ♪
+Dialogue: 0,0:05:12.60,0:05:16.61,Default,,0,0,0,,-阿们，男人们 -咕咕\N{\rMerged}-♪ Amen, hey, men ♪ -♪ Cluck-cluck ♪
+Dialogue: 0,0:05:16.69,0:05:20.74,Default,,0,0,0,,巨婴男\N{\rMerged}-♪ Manchild ♪ -[laughing]
+Dialogue: 0,0:05:20.82,0:05:23.91,Default,,0,0,0,,你为什么总是跑来找我？\N{\rMerged}♪ Why you always come a-running to me? ♪
+Dialogue: 0,0:05:23.44,0:05:24.44,*Default,NTP,0,0,0,,{\rMerged}[vocalizing]
+Dialogue: 0,0:05:24.53,0:05:28.12,Default,,0,0,0,,我还要过活\N{\rMerged}[Carpenter] ♪ It's my life ♪
+Dialogue: 0,0:05:28.20,0:05:31.75,Default,,0,0,0,,饶了这个无辜的女人吧\N{\rMerged}♪ Won't you let an innocent woman be? Oh ♪
+Dialogue: 0,0:05:33.17,0:05:36.17,Default,,0,0,0,,我喜欢男生搞点欲擒故纵\N{\rMerged}[singers] ♪ And I like my boys Playing hard to get ♪
+Dialogue: 0,0:05:36.25,0:05:41.01,Default,,0,0,0,,也喜欢男人软弱无能\N{\rMerged}♪ And I like my men all incompetent ♪
+Dialogue: 0,0:05:38.83,0:05:40.54,*Default,NTP,0,0,0,,{\rMerged}[laughs]
+Dialogue: 0,0:05:42.63,0:05:44.55,*Default,NTP,0,0,0,,{\rMerged}[clucking]
+Dialogue: 0,0:05:44.64,0:05:47.51,Default,,0,0,0,,阿们，男人们\N{\rMerged}♪ Amen, hey, men ♪
+Dialogue: 0,0:05:47.59,0:05:49.51,*Default,NTP,0,0,0,,{\rMerged}-[shrieks] -[audience laughs]
+Dialogue: 0,0:05:51.14,0:05:56.39,*Default,NTP,0,0,0,,{\rMerged}-[clucking] -[audience cheering]
+Dialogue: 0,0:05:59.23,0:06:00.69,Default,,0,0,0,,真厉害\N{\rMerged}-Great talent! -Whoo-hoo!
+Dialogue: 0,0:06:00.78,0:06:03.20,Default,,0,0,0,,-我喜欢，再来 -对，太棒了\N{\rMerged}-Love it! More! More! -[chuckles] Yes, it's great.
+Dialogue: 0,0:06:03.28,0:06:06.16,Default,,0,0,0,,好令人兴奋的开场，科米叔叔\N{\rMerged}Wow, what an exciting opening, Uncle Kermit.
+Dialogue: 0,0:06:06.24,0:06:09.24,Default,,0,0,0,,做得好，鸡群，风扇的事真的很抱歉\N{\rMerged}Great job, Chickens. Again, I'm sorry about the fan.
+Dialogue: 0,0:06:09.74,0:06:10.95,Default,,0,0,0,,我好羞愧\N{\rMerged}-[grunting] -[Sam] I'm mortified.
+Dialogue: 0,0:06:11.04,0:06:13.62,Default,,0,0,0,,-斯库特，过来 -好\N{\rMerged}-Scooter. Come here, come here, come here. -Uh. Yeah.
+Dialogue: 0,0:06:13.71,0:06:15.21,Default,,0,0,0,,后台怎么这么拥挤？\N{\rMerged}Why is it so crowded back here?
+Dialogue: 0,0:06:15.29,0:06:17.71,Default,,0,0,0,,这些都是表演名单上的人，老大\N{\rMerged}Well, uh, these are all the acts in the show, boss.
+Dialogue: 0,0:06:17.79,0:06:20.38,Default,,0,0,0,,你确定我批准那名单了吗？\N{\rMerged}What? Are you sure I approved all of that?
+Dialogue: 0,0:06:20.46,0:06:21.46,Default,,0,0,0,,还有更多呢\N{\rMerged}And more.
+Dialogue: 0,0:06:21.54,0:06:22.63,*Default,NTP,0,0,0,,{\rMerged}[whistle blows]
+Dialogue: 0,0:06:23.34,0:06:25.59,Default,,0,0,0,,我们快走，该上台了\N{\rMerged}[Muppet 1] Let's go already. We gotta get on stage.
+Dialogue: 0,0:06:25.68,0:06:27.80,Default,,0,0,0,,记得大家多期待参与我们首场回归秀吗？\N{\rMerged}Remember how excited everyone was to be on our first show back?
+Dialogue: 0,0:06:27.89,0:06:30.77,Default,,0,0,0,,你还一直跟他们说 他们的表演听起来很有趣\N{\rMerged}And you kept telling them that their acts sounded fun.
+Dialogue: 0,0:06:31.43,0:06:33.94,Default,,0,0,0,,斯库特，大家都知道“听起来很有趣”\N{\rMerged}[scoffs] Scooter, everybody knows that "that sounds fun"
+Dialogue: 0,0:06:34.02,0:06:36.23,Default,,0,0,0,,是一种委婉拒绝的方式\N{\rMerged}is just a polite way of saying no.
+Dialogue: 0,0:06:36.31,0:06:38.06,Default,,0,0,0,,对，还蛮隐晦的，老大\N{\rMerged}Yeah, that feels pretty indirect, boss.
+Dialogue: 0,0:06:38.15,0:06:39.98,Default,,0,0,0,,这可能会造成问题\N{\rMerged}-Hmm. -You know, this could be a problem.
+Dialogue: 0,0:06:40.07,0:06:43.70,Default,,0,0,0,,好，下一个找我谈的人一定会被删掉\N{\rMerged}Okay. Well, the next person who talks to me is definitely getting cut.
+Dialogue: 0,0:06:44.49,0:06:45.91,Default,,0,0,0,,科米\N{\rMerged}-Mm-hmm. -Oh, Kermie.
+Dialogue: 0,0:06:45.98,0:06:47.32,*Default,NTP,0,0,0,,{\rMerged}[audience laughs]
+Dialogue: 0,0:06:47.40,0:06:48.57,*Default,NTP,0,0,0,,{\rMerged}[humming]
+Dialogue: 0,0:06:48.66,0:06:50.66,Default,,0,0,0,,不好意思，艺人要过\N{\rMerged}-Excuse moi, talent walking. -Hmm?
+Dialogue: 0,0:06:51.24,0:06:52.29,Default,,0,0,0,,哪里有艺人？\N{\rMerged}[gasps] Oh. Oh, where's the talent?
+Dialogue: 0,0:06:52.79,0:06:54.33,Default,,0,0,0,,-我，我就是… -谁？\N{\rMerged}-Me. Me. I'm the t… [sighs] -Who? [grunts]
+Dialogue: 0,0:06:56.50,0:07:00.21,Default,,0,0,0,,科米，重回剧院 为人们送上他们真正想看的\N{\rMerged}Oh, Kermit. Isn't it wonderful being back in the theater again,
+Dialogue: 0,0:07:00.30,0:07:02.84,Default,,0,0,0,,是不是很美妙？\N{\rMerged}giving the people what they truly want?
+Dialogue: 0,0:07:03.34,0:07:04.34,Default,,0,0,0,,也就是我\N{\rMerged}Moi. [chuckles]
+Dialogue: 0,0:07:06.05,0:07:07.14,Default,,0,0,0,,祝你好运\N{\rMerged}-[sighs] -Good luck.
+Dialogue: 0,0:07:07.22,0:07:08.22,Default,,0,0,0,,斯库特？\N{\rMerged}Scooter? [stutters]
+Dialogue: 0,0:07:08.89,0:07:13.85,Default,,0,0,0,,是啊，猪猪，说起来这场秀…有点长\N{\rMerged}Yeah. Um, Piggy, uh, you know… [chuckles] …the show is, uh, it's running kinda long,
+Dialogue: 0,0:07:14.35,0:07:16.98,Default,,0,0,0,,而且你似乎有两场表演\N{\rMerged}and, uh, you know, it looks like you're doing two acts.
+Dialogue: 0,0:07:17.06,0:07:19.40,Default,,0,0,0,,没错，关于音乐表演\N{\rMerged}Exactly. Now about the musical number,
+Dialogue: 0,0:07:19.48,0:07:23.28,Default,,0,0,0,,当我以爱神造型从巨型贝壳中现身\N{\rMerged}when I emerge from the giant seashell dressed as Aphrodite,
+Dialogue: 0,0:07:23.36,0:07:26.74,Default,,0,0,0,,那三百个跳舞的斯巴达人一定要知道\N{\rMerged}let's make sure our 300 dancing Spartans know to exit the Trojan horse
+Dialogue: 0,0:07:26.82,0:07:32.87,Default,,0,0,0,,冲出特洛伊木马的时机就是我的降B高音\N{\rMerged}precisely on my [singsongy] high B flat.
+Dialogue: 0,0:07:32.95,0:07:35.71,Default,,0,0,0,,对，我只是随口提一下\N{\rMerged}Right. Uh, just thinking out loud here,
+Dialogue: 0,0:07:35.79,0:07:40.42,Default,,0,0,0,,但你认为那些精确的历史考据 会抢你的风头吗？\N{\rMerged}but, uh, you think maybe all that historical accuracy might upstage you?
+Dialogue: 0,0:07:40.50,0:07:42.87,*Default,NTP,0,0,0,,{\rMerged}[laughing] No.
+Dialogue: 0,0:07:42.38,0:07:43.38,Default,,0,0,0,,不会\N{\rMerged}[audience laughs]
+Dialogue: 0,0:07:45.42,0:07:46.55,Default,,0,0,0,,科米\N{\rMerged}-Kermit. Kermit. -[sighs]
+Dialogue: 0,0:07:46.63,0:07:48.89,Default,,0,0,0,,我不小心听到了，因为我在偷看你们\N{\rMerged}I couldn't help but overhear because I was spying on you guys.
+Dialogue: 0,0:07:48.97,0:07:51.14,Default,,0,0,0,,我可以帮你删减节目内容\N{\rMerged}If you need, I can help you trim some of the show.
+Dialogue: 0,0:07:51.22,0:07:53.39,Default,,0,0,0,,真的吗？谢了，你有什么想法？\N{\rMerged}Oh, really? Uh, thanks. What were you thinking?
+Dialogue: 0,0:07:53.89,0:07:55.18,Default,,0,0,0,,从头顶剪一些如何？\N{\rMerged}How about a little off the top?
+Dialogue: 0,0:07:56.10,0:07:57.51,*Default,NTP,0,0,0,,{\rMerged}-Ah? -[chuckles]
+Dialogue: 0,0:07:57.60,0:08:00.65,Default,,0,0,0,,道具喜剧现在可能帮不了我们，福滋\N{\rMerged}I don't know if prop comedy is gonna help us right now, Fozzie.
+Dialogue: 0,0:08:01.61,0:08:04.32,Default,,0,0,0,,那我只好戴上我的思考帽了\N{\rMerged}Oh. Guess I'll have to put on my thinking cap then.
+Dialogue: 0,0:08:04.40,0:08:05.98,*Default,NTP,0,0,0,,{\rMerged}Hmm? [gasps]
+Dialogue: 0,0:08:06.57,0:08:08.53,Default,,0,0,0,,-喜欢吗？如何？ -当然\N{\rMerged}-Ah? Like it? Huh? Huh? Huh? -Uh, you know, sure.
+Dialogue: 0,0:08:08.61,0:08:11.07,Default,,0,0,0,,如果它能让你想到删减节目内容的方法\N{\rMerged}If it can help you think of how to cut some acts from the show.
+Dialogue: 0,0:08:11.66,0:08:13.83,Default,,0,0,0,,没问题，我已经有点子了\N{\rMerged}You got it, pal. Got an idea already.
+Dialogue: 0,0:08:13.91,0:08:14.91,*Default,NTP,0,0,0,,{\rMerged}Oh.
+Dialogue: 0,0:08:15.83,0:08:17.50,Default,,0,0,0,,塞斯罗根\N{\rMerged}Hey, Seth Rogen.
+Dialogue: 0,0:08:17.58,0:08:19.92,Default,,0,0,0,,福滋，这太棒了\N{\rMerged}Oh, hey, Fozzie. This is incredible.
+Dialogue: 0,0:08:20.00,0:08:22.21,Default,,0,0,0,,我一直梦想能登上这个舞台\N{\rMerged}It's always been a dream of mine to be here. [chuckles]
+Dialogue: 0,0:08:23.17,0:08:24.67,Default,,0,0,0,,你有其他梦想吗？\N{\rMerged}Ooh. Got any other dreams?
+Dialogue: 0,0:08:24.75,0:08:26.72,Default,,0,0,0,,这是什么意思？\N{\rMerged}Uh-oh. What does that mean?
+Dialogue: 0,0:08:27.38,0:08:28.84,Default,,0,0,0,,你被删掉了\N{\rMerged}[sighs] You're cut.
+Dialogue: 0,0:08:28.93,0:08:31.09,Default,,0,0,0,,什么？删掉？我是执行制作人耶\N{\rMerged}What? Cut? I'm the executive producer.
+Dialogue: 0,0:08:31.18,0:08:34.06,Default,,0,0,0,,那请你通知自己，我们要改变路线了\N{\rMerged}Then you can let yourself know we're going in a different direction.
+Dialogue: 0,0:08:34.13,0:08:36.93,*Default,NTP,0,0,0,,{\rMerged}[audience laughs]
+Dialogue: 0,0:08:37.01,0:08:38.10,*Default,NTP,0,0,0,,{\rMerged}[audience applauding]
+Dialogue: 0,0:08:38.18,0:08:42.90,Default,,0,0,0,,下一位表演者是世界上 最无所畏惧的冒险家兼行为艺术家\N{\rMerged}Our next act is the world's most fearless daredevil/performance artist,
+Dialogue: 0,0:08:42.98,0:08:47.61,Default,,0,0,0,,他多年来都不断撼动观众与保险公司的心\N{\rMerged}who's been shocking audiences and insurance companies for years.
+Dialogue: 0,0:08:47.69,0:08:49.95,Default,,0,0,0,,让我们欢迎伟大的贡佐\N{\rMerged}Let's hear it for The Great Gonzo.
+Dialogue: 0,0:08:50.03,0:08:52.36,*Default,NTP,0,0,0,,{\rMerged}-[audience cheers] -[trumpets blare]
+Dialogue: 0,0:08:52.87,0:08:54.99,Default,,0,0,0,,谢谢，感激不尽\N{\rMerged}Thank you. Thank you so much.
+Dialogue: 0,0:08:55.08,0:08:58.25,Default,,0,0,0,,看啊，是我，伟大的贡佐\N{\rMerged}Behold, it is I, The Great Gonzo.
+Dialogue: 0,0:08:58.33,0:09:02.00,Default,,0,0,0,,今晚我要尝试以自动驾驶的溜冰鞋\N{\rMerged}And tonight I will attempt this deadly obstacle course
+Dialogue: 0,0:09:02.08,0:09:04.42,Default,,0,0,0,,挑战这条致命的障碍赛道\N{\rMerged}on self-driving roller skates.
+Dialogue: 0,0:09:04.50,0:09:07.59,Default,,0,0,0,,同时背出奥斯卡金像奖\N{\rMerged}All the while reciting every Academy Award winner
+Dialogue: 0,0:09:07.67,0:09:11.13,Default,,0,0,0,,所有的最佳女配角奖得主\N{\rMerged}in the category of Best Supporting Actress.
+Dialogue: 0,0:09:11.21,0:09:13.17,*Default,NTP,0,0,0,,{\rMerged}[♪ "O Fortuna" playing]
+Dialogue: 0,0:09:13.26,0:09:17.22,*Default,NTP,0,0,0,,{\rMerged}[laughs] Whoo-hoo. Ignite the rings.
+Dialogue: 0,0:09:15.89,0:09:17.22,Default,,0,0,0,,点燃火圈
+Dialogue: 0,0:09:19.43,0:09:20.89,Default,,0,0,0,,放开刀片\N{\rMerged}Release the blades. [laughs]
+Dialogue: 0,0:09:23.23,0:09:26.44,Default,,0,0,0,,表演现在开始\N{\rMerged}And it starts right now.
+Dialogue: 0,0:09:26.52,0:09:29.61,Default,,0,0,0,,歌蒂韩、露琵塔尼咏欧、莎莉温德丝\N{\rMerged}Goldie Hawn, Lupita Nyong'o, Shelly Winters.
+Dialogue: 0,0:09:29.69,0:09:31.36,*Default,NTP,0,0,0,,{\rMerged}[bangs, clatters]
+Dialogue: 0,0:09:31.44,0:09:33.03,*Default,NTP,0,0,0,,{\rMerged}[audience gasps]
+Dialogue: 0,0:09:33.87,0:09:34.95,Default,,0,0,0,,那样真痛苦\N{\rMerged}Whoo. That was painful.
+Dialogue: 0,0:09:35.03,0:09:36.41,Default,,0,0,0,,他痛苦还是我们痛苦？\N{\rMerged}For him or for us?
+Dialogue: 0,0:09:36.49,0:09:37.49,Default,,0,0,0,,都痛苦\N{\rMerged}-Both. [laughs] -[laughs]
+Dialogue: 0,0:09:41.00,0:09:43.79,Default,,0,0,0,,现在请观赏《戴假发的猪》\N{\rMerged}[announcer] And now, "Pigs in Wigs."
+Dialogue: 0,0:09:43.87,0:09:48.37,*Default,NTP,0,0,0,,{\rMerged}[♪ classical music playing]
+Dialogue: 0,0:09:54.43,0:09:58.39,Default,,0,0,0,,美乃滋三明治郡的猪格顿公爵夫人\N{\rMerged}Duchess Piggerton of County Mayo Upon Sandwich.
+Dialogue: 0,0:09:58.47,0:09:59.84,*Default,NTP,0,0,0,,{\rMerged}[audience laughs]
+Dialogue: 0,0:10:02.31,0:10:07.19,Default,,0,0,0,,费料勋爵和…他的女伴\N{\rMerged}Lord Scrappleton and… his plus one.
+Dialogue: 0,0:10:07.27,0:10:08.48,Default,,0,0,0,,什么？\N{\rMerged}What? [grumbles]
+Dialogue: 0,0:10:08.98,0:10:09.98,Default,,0,0,0,,亲爱的\N{\rMerged}Darling.
+Dialogue: 0,0:10:12.11,0:10:15.57,Default,,0,0,0,,多耀眼的晚宴啊，亲爱的\N{\rMerged}[sighs] What a dazzling soiree, mon chéri.
+Dialogue: 0,0:10:16.16,0:10:19.49,Default,,0,0,0,,你好吗？很高兴见到你\N{\rMerged}Oh. Hello. How are you? Lovely to see you.
+Dialogue: 0,0:10:19.58,0:10:22.21,Default,,0,0,0,,她竟然还敢在这里露脸\N{\rMerged}She has some nerve showing her face around here.
+Dialogue: 0,0:10:22.71,0:10:27.00,Default,,0,0,0,,好时髦的装扮 我爱死那个莫名其妙的玩意了\N{\rMerged}What a chic ensemble. Love whatever that is.
+Dialogue: 0,0:10:27.09,0:10:29.80,Default,,0,0,0,,看来今晚的服装规定只是建议而已\N{\rMerged}Apparently the dress code was optional tonight.
+Dialogue: 0,0:10:30.46,0:10:33.47,Default,,0,0,0,,亲爱的，你真是个小恶魔\N{\rMerged}[laughs] Darling, you're so devilish.
+Dialogue: 0,0:10:33.55,0:10:34.63,*Default,NTP,0,0,0,,{\rMerged}-[laughs] -[laughs]
+Dialogue: 0,0:10:34.72,0:10:40.47,Default,,0,0,0,,你能行行好，帮我拿杯饮料吗？拜托\N{\rMerged}Say, could you be a dear and fetch us a beverage? Pretty please?
+Dialogue: 0,0:10:41.06,0:10:44.94,Default,,0,0,0,,当然好，我的小松饼，我马上回来\N{\rMerged}Oh. Of course, my crumpet. I'll be right back.
+Dialogue: 0,0:10:45.01,0:10:47.77,*Default,NTP,0,0,0,,{\rMerged}-[chuckles] -Mmm. [chuckles]
+Dialogue: 0,0:10:53.65,0:10:57.12,Default,,0,0,0,,我的爱人，可以浮上水面了\N{\rMerged}Oh, lover. The coast is clear.
+Dialogue: 0,0:10:57.20,0:10:58.49,Default,,0,0,0,,猪猪\N{\rMerged}-Psst, Piggy. -Hmm?
+Dialogue: 0,0:10:58.58,0:11:01.33,Default,,0,0,0,,我忘了跟你说 我们得重新帮你的爱人选角\N{\rMerged}I forgot to tell you, we had to recast your lover.
+Dialogue: 0,0:11:01.41,0:11:03.87,Default,,0,0,0,,什么？谁啊？\N{\rMerged}W-What? Wi-With who?
+Dialogue: 0,0:11:04.58,0:11:05.71,Default,,0,0,0,,你好啊\N{\rMerged}Hola.
+Dialogue: 0,0:11:06.79,0:11:08.96,Default,,0,0,0,,你们一定是在开玩笑\N{\rMerged}You've gotta be kidding me.
+Dialogue: 0,0:11:09.04,0:11:10.88,Default,,0,0,0,,我跟你一样困惑，好吗？\N{\rMerged}Hey, I'm just as confused as you are, okay?
+Dialogue: 0,0:11:11.38,0:11:13.63,Default,,0,0,0,,好啦，我们继续演吧\N{\rMerged}[sighs] All right. Let's just get on with it.
+Dialogue: 0,0:11:14.13,0:11:15.46,*Default,NTP,0,0,0,,{\rMerged}[clears throat]
+Dialogue: 0,0:11:15.55,0:11:18.93,Default,,0,0,0,,爱人，我是多么想念你那棱角分明的下巴\N{\rMerged}Oh, lover. How I've missed your chiseled chin,
+Dialogue: 0,0:11:19.01,0:11:25.56,Default,,0,0,0,,你那乌黑浓密的秀发 还有强壮有力的臂膀\N{\rMerged}your luscious, thick head of raven hair, and your big strong arms.
+Dialogue: 0,0:11:25.64,0:11:26.94,Default,,0,0,0,,你在跟我说话吗？\N{\rMerged}You talking to me?
+Dialogue: 0,0:11:27.02,0:11:28.02,Default,,0,0,0,,对\N{\rMerged}Yep.
+Dialogue: 0,0:11:28.10,0:11:30.11,Default,,0,0,0,,找到你了，亲爱的\N{\rMerged}There you are, my darling. Uh…
+Dialogue: 0,0:11:31.15,0:11:33.53,Default,,0,0,0,,你是哪位，阁下？\N{\rMerged}And who are you, kind sir?
+Dialogue: 0,0:11:33.61,0:11:34.69,Default,,0,0,0,,我不知道\N{\rMerged}I don't know.
+Dialogue: 0,0:11:34.78,0:11:38.53,Default,,0,0,0,,我本来在后面闲聊 有人却帮我套上这件怪外套\N{\rMerged}I was back there schmoozing when someone put me in this weird jacket
+Dialogue: 0,0:11:38.62,0:11:40.16,Default,,0,0,0,,把我推到台上，好吗？\N{\rMerged}and threw me on the stage, okay?
+Dialogue: 0,0:11:40.24,0:11:42.87,Default,,0,0,0,,糟了，我被逮到了\N{\rMerged}Oh, no. I've been caught.
+Dialogue: 0,0:11:42.95,0:11:46.29,Default,,0,0,0,,这下让我难以抉择的\N{\rMerged}And now my public lover and my secret lover,
+Dialogue: 0,0:11:46.37,0:11:48.54,Default,,0,0,0,,正牌爱人和秘密爱人\N{\rMerged}whomst I am tornt betweenst,
+Dialogue: 0,0:11:48.63,0:11:53.96,Default,,0,0,0,,必须决斗至死 只因他们如此疯狂地爱着我\N{\rMerged}must duel to the death because they're so madly in love with moi.
+Dialogue: 0,0:11:54.05,0:11:58.30,Default,,0,0,0,,对，说到这个 我应该告诉你，我邂逅了一个人\N{\rMerged}Uh, yes. Uh, about that, I should tell you, I… I've met someone.
+Dialogue: 0,0:11:59.09,0:12:00.55,Default,,0,0,0,,什么？什么时候？\N{\rMerged}What? When?
+Dialogue: 0,0:12:00.64,0:12:03.06,Default,,0,0,0,,刚刚在切肉台那边\N{\rMerged}Just now by the carving station.
+Dialogue: 0,0:12:03.14,0:12:06.81,Default,,0,0,0,,我知道才过了几秒钟，但那是真爱\N{\rMerged}Oh, I know it's only been a few seconds but it's true love.
+Dialogue: 0,0:12:06.89,0:12:09.40,Default,,0,0,0,,这是怎么回事？\N{\rMerged}What is happening here?
+Dialogue: 0,0:12:09.48,0:12:12.15,Default,,0,0,0,,你听到他的话了，那是爱情 恭喜你，朋友\N{\rMerged}You heard him, okay. It's love. Good for you, my friend.
+Dialogue: 0,0:12:13.07,0:12:15.82,Default,,0,0,0,,谢谢，我们好幸福哦\N{\rMerged}-Oh, thank you. We're oh, so happy. -[mutters, scoffs]
+Dialogue: 0,0:12:16.44,0:12:20.20,Default,,0,0,0,,算了，我要离开这里，免得把脸丢光\N{\rMerged}Ugh, forget it. I'm getting out of here while I still have my dignity.
+Dialogue: 0,0:12:20.82,0:12:21.99,*Default,NTP,0,0,0,,{\rMerged}-[sighs] -[audience laughs]
+Dialogue: 0,0:12:22.07,0:12:23.66,*Default,NTP,0,0,0,,{\rMerged}[gasps]
+Dialogue: 0,0:12:25.74,0:12:27.41,*Default,NTP,0,0,0,,{\rMerged}[screams]
+Dialogue: 0,0:12:27.49,0:12:30.12,*Default,NTP,0,0,0,,{\rMerged}[cheering]
+Dialogue: 0,0:12:30.21,0:12:32.54,Default,,0,0,0,,两位的投掷物\N{\rMerged}Your projectiles, sirs.
+Dialogue: 0,0:12:32.63,0:12:34.38,Default,,0,0,0,,太迟了，短剧结束了\N{\rMerged}Uh, too late. Sketch is over.
+Dialogue: 0,0:12:34.46,0:12:38.01,Default,,0,0,0,,你还是把它们留下吧，这场秀还很长\N{\rMerged}Actually, why don't you leave 'em. There's a lot more of this show left.
+Dialogue: 0,0:12:38.09,0:12:39.22,Default,,0,0,0,,真是不幸\N{\rMerged}-Unfortunately. [laughs] -[laughs]
+Dialogue: 0,0:12:41.39,0:12:46.02,Default,,0,0,0,,好，羽毛黏好了 等它干了再抱人，下一位\N{\rMerged}Okay. Feather's glued. Don't hug anyone till it is dry. Next.
+Dialogue: 0,0:12:46.52,0:12:47.56,Default,,0,0,0,,好，各位\N{\rMerged}Okay, everybody.
+Dialogue: 0,0:12:47.64,0:12:53.61,Default,,0,0,0,,你们的名字都按明确顺序 列在这份演出流程表上\N{\rMerged}All of your names are on this run of show in a highly specific order.
+Dialogue: 0,0:12:53.69,0:12:57.19,Default,,0,0,0,,只要我手上拿着这份名单\N{\rMerged}And as long as I have this list in my hands,
+Dialogue: 0,0:12:57.28,0:12:59.40,Default,,0,0,0,,这场秀就会顺利进行\N{\rMerged}the show will go off without a hitch.
+Dialogue: 0,0:12:59.49,0:13:02.12,Default,,0,0,0,,奥林匹亚杜卡琪斯、莫妮克\N{\rMerged}Olympia Dukakis. Mo'Nique.
+Dialogue: 0,0:13:02.86,0:13:04.20,*Default,NTP,0,0,0,,{\rMerged}[crashes]
+Dialogue: 0,0:13:05.12,0:13:07.41,Default,,0,0,0,,你这么做好像在挑战命运\N{\rMerged}Feels like you kinda tempted fate with that one.
+Dialogue: 0,0:13:07.49,0:13:09.53,*Default,NTP,0,0,0,,{\rMerged}[audience laughs, applaud]
+Dialogue: 0,0:13:09.62,0:13:10.62,*Default,NTP,0,0,0,,{\rMerged}[musical fanfare]
+Dialogue: 0,0:13:10.71,0:13:12.42,Default,,0,0,0,,好，谢谢各位\N{\rMerged}Huh. Okay. Uh, thank you very much.
+Dialogue: 0,0:13:12.50,0:13:16.59,Default,,0,0,0,,接下来的音乐表演，我们要走上街头\N{\rMerged}Now, for our next musical number, let's take it to the streets.
+Dialogue: 0,0:13:16.67,0:13:19.63,Default,,0,0,0,,鼠患横行的街头\N{\rMerged}The rat infested streets. Ooh.
+Dialogue: 0,0:13:21.46,0:13:23.38,*Default,NTP,0,0,0,,{\rMerged}[sirens blaring]
+Dialogue: 0,0:13:23.46,0:13:27.47,*Default,NTP,0,0,0,,{\rMerged}[♪ "Blinding Lights" playing]
+Dialogue: 0,0:13:28.22,0:13:29.85,Default,,0,0,0,,我一直打电话给你\N{\rMerged}♪ I've been tryna call ♪
+Dialogue: 0,0:13:30.89,0:13:33.27,Default,,0,0,0,,-我独自度日已经够久 -快拿到了\N{\rMerged}-♪ I've been on my own for long enough ♪ -[rat] Almost got it.
+Dialogue: 0,0:13:33.86,0:13:38.07,Default,,0,0,0,,也许你能让我学会如何爱人，也许\N{\rMerged}♪ Maybe you can show me how to love Maybe ♪
+Dialogue: 0,0:13:38.15,0:13:39.15,*Default,NTP,0,0,0,,{\rMerged}Oh.
+Dialogue: 0,0:13:39.24,0:13:41.15,Default,,0,0,0,,我正在经历戒断反应\N{\rMerged}♪ I'm goin' through withdrawals ♪
+Dialogue: 0,0:13:42.20,0:13:44.53,Default,,0,0,0,,你根本不用多费力气\N{\rMerged}♪ You don't even have to do too much ♪
+Dialogue: 0,0:13:45.03,0:13:49.37,Default,,0,0,0,,轻轻一碰就能点燃我的情欲，宝贝\N{\rMerged}♪ You can turn me on With just a touch, baby ♪
+Dialogue: 0,0:13:50.41,0:13:54.21,Default,,0,0,0,,我环顾四周，这罪恶之城冰冷又空虚\N{\rMerged}♪ I look around and Sin City's cold and empty ♪
+Dialogue: 0,0:13:54.29,0:13:57.21,Default,,0,0,0,,附近没有人会批判我\N{\rMerged}-♪ No one's around to judge me ♪ -[rats] ♪ Oh, oh ♪
+Dialogue: 0,0:13:57.30,0:14:01.63,Default,,0,0,0,,没有你，我看什么都不清晰\N{\rMerged}♪ I can't see clearly when you're gone ♪
+Dialogue: 0,0:14:01.72,0:14:07.64,Default,,0,0,0,,我说，这灯光让我睁不开眼\N{\rMerged}♪ I said, ooh, I'm blinded by the lights ♪
+Dialogue: 0,0:14:07.72,0:14:11.89,Default,,0,0,0,,没有你的触碰，我无法入眠\N{\rMerged}♪ No, I can't sleep Until I feel your touch ♪
+Dialogue: 0,0:14:12.77,0:14:18.82,Default,,0,0,0,,我说，我沉溺在这夜色之中\N{\rMerged}♪ I said, ooh, I'm drowning in the night ♪
+Dialogue: 0,0:14:19.44,0:14:22.95,Default,,0,0,0,,在这种时刻，你是我唯一信赖的人\N{\rMerged}♪ Oh, when I'm like this You're the one I trust ♪
+Dialogue: 0,0:14:23.02,0:14:24.86,*Default,NTP,0,0,0,,{\rMerged}[rats] ♪ Hey! Hey! Hey! ♪
+Dialogue: 0,0:14:24.94,0:14:29.28,*Default,NTP,0,0,0,,{\rMerged}-Ah! -[rats clamoring]
+Dialogue: 0,0:14:30.12,0:14:35.54,Default,,0,0,0,,我说，这灯光让我睁不开眼\N{\rMerged}♪ I said, ooh, I'm blinded by the lights ♪
+Dialogue: 0,0:14:36.08,0:14:40.13,Default,,0,0,0,,没有你的触碰，我无法入眠\N{\rMerged}♪ No, I can't sleep Until I feel your touch ♪
+Dialogue: 0,0:14:40.21,0:14:42.17,*Default,NTP,0,0,0,,{\rMerged}♪ Hey! Hey! Hey! Hey! ♪
+Dialogue: 0,0:14:42.25,0:14:45.17,*Default,NTP,0,0,0,,{\rMerged}[grunting, exclaims]
+Dialogue: 0,0:14:48.30,0:14:50.30,*Default,NTP,0,0,0,,{\rMerged}[clamoring]
+Dialogue: 0,0:14:51.27,0:14:53.77,Default,,0,0,0,,-去抓鸟 -我抓到鸟了\N{\rMerged}-Get the bird! Get the bird! -I got the bird.
+Dialogue: 0,0:14:53.85,0:14:55.27,Default,,0,0,0,,你有没有看到…\N{\rMerged}Did you see…
+Dialogue: 0,0:14:59.36,0:15:03.24,Default,,0,0,0,,抱歉，声带休息中，不能说话 声带休息中\N{\rMerged}Sorry! On vocal rest, can't talk. On vocal rest.
+Dialogue: 0,0:15:03.32,0:15:05.49,Default,,0,0,0,,斯库特，这里怎么了？\N{\rMerged}-Scooter, what is going on here? -Hmm?
+Dialogue: 0,0:15:05.57,0:15:07.16,Default,,0,0,0,,我是下一个吧？\N{\rMerged}Am I on next or what?
+Dialogue: 0,0:15:07.95,0:15:11.29,Default,,0,0,0,,科米不得不删掉你的表演，猪小姐 他没跟你说吗？\N{\rMerged}Oh, uh. Kermit had to cut your number, Miss Piggy. Didn't he tell you?
+Dialogue: 0,0:15:11.37,0:15:14.00,Default,,0,0,0,,什么？看起来像他有跟我说吗？\N{\rMerged}What? Does it look like he told me?
+Dialogue: 0,0:15:14.08,0:15:18.42,Default,,0,0,0,,你以为我穿这双罗马鞋 是为了足部健康吗？\N{\rMerged}You think I'm wearing these gladiator sandals for my freaking health?
+Dialogue: 0,0:15:19.13,0:15:20.13,Default,,0,0,0,,应该不是\N{\rMerged}Uh… Probably not.
+Dialogue: 0,0:15:20.21,0:15:24.50,*Default,NTP,0,0,0,,{\rMerged}-[grunts] Kermit! -Whoa!
+Dialogue: 0,0:15:21.59,0:15:23.34,Default,,0,0,0,,科米
+Dialogue: 0,0:15:25.51,0:15:27.76,Default,,0,0,0,,对，能回来真好\N{\rMerged}Yep. Good to be back.
+Dialogue: 0,0:15:29.14,0:15:30.97,Default,,0,0,0,,很抱歉刚才出了点状况\N{\rMerged}So sorry about the mishap earlier.
+Dialogue: 0,0:15:31.06,0:15:32.93,Default,,0,0,0,,我们还在处理一些小毛病\N{\rMerged}[stammers] We're still working out a few kinks.
+Dialogue: 0,0:15:33.60,0:15:35.31,Default,,0,0,0,,没关系，有病才好玩\N{\rMerged}Oh, that's all right. I love a kink.
+Dialogue: 0,0:15:35.39,0:15:37.43,*Default,NTP,0,0,0,,{\rMerged}Uh-huh. Hmm.
+Dialogue: 0,0:15:37.52,0:15:39.31,Default,,0,0,0,,我只是想说\N{\rMerged}Well, uh, I just wanted to say
+Dialogue: 0,0:15:39.40,0:15:41.82,Default,,0,0,0,,我们真的很荣幸今晚能跟你同台\N{\rMerged}we're really honored to have you here with us tonight.
+Dialogue: 0,0:15:41.90,0:15:42.90,Default,,0,0,0,,你在说笑吗？\N{\rMerged}Are you kidding me?
+Dialogue: 0,0:15:42.98,0:15:44.74,Default,,0,0,0,,能来这里是美梦成真\N{\rMerged}-Being here is a dream come true. -Ah.
+Dialogue: 0,0:15:44.82,0:15:46.86,Default,,0,0,0,,我今晚大可去世上的任何地方\N{\rMerged}I mean, I could've been anywhere else in the world tonight.
+Dialogue: 0,0:15:46.95,0:15:48.99,Default,,0,0,0,,我婉拒了普利策奖\N{\rMerged}-I… I turned down a Pulitzer prize… -Mmm. Mmm.
+Dialogue: 0,0:15:49.07,0:15:53.04,Default,,0,0,0,,让我的脸铸在新的25分硬币上 还有第二次约会，对象是…\N{\rMerged}…and getting my face on the new quarter, and a second date with… [whispers]
+Dialogue: 0,0:15:53.95,0:15:54.95,Default,,0,0,0,,真的吗？\N{\rMerged}-Really? -Mm-hmm.
+Dialogue: 0,0:15:56.12,0:15:57.54,Default,,0,0,0,,-他单身？ -不是\N{\rMerged}-He's single? -No.
+Dialogue: 0,0:15:57.62,0:15:58.79,*Default,NTP,0,0,0,,{\rMerged}Oh.
+Dialogue: 0,0:15:58.88,0:16:00.96,Default,,0,0,0,,但我现在只想待在这里\N{\rMerged}But this is the only place I want to be right now.
+Dialogue: 0,0:16:01.04,0:16:02.04,Default,,0,0,0,,没什么能…\N{\rMerged}-And nothing could-- -[knocks on door]
+Dialogue: 0,0:16:03.17,0:16:04.80,Default,,0,0,0,,开门，青蛙\N{\rMerged}-[Miss Piggy] Open the door, frog! -[gasps]
+Dialogue: 0,0:16:04.88,0:16:06.13,Default,,0,0,0,,-抱歉… -她知道了，老大\N{\rMerged}-Sorr… -[Scooter] She knows, boss!
+Dialogue: 0,0:16:06.22,0:16:07.30,Default,,0,0,0,,好像有人在门外\N{\rMerged}I think someone's at the door.
+Dialogue: 0,0:16:07.38,0:16:09.30,*Default,NTP,0,0,0,,{\rMerged}-[banging on door] -[grunting]
+Dialogue: 0,0:16:09.38,0:16:11.67,*Default,NTP,0,0,0,,{\rMerged}Uh, ooh, that? [chuckles]
+Dialogue: 0,0:16:10.43,0:16:11.68,Default,,0,0,0,,那个？
+Dialogue: 0,0:16:11.76,0:16:14.72,Default,,0,0,0,,不，那是…只是剧院太老旧而已\N{\rMerged}No, no, no, no. That's, uh… That's just an old theater, you know?
+Dialogue: 0,0:16:15.39,0:16:17.73,Default,,0,0,0,,这些管线有时候蛮吵的\N{\rMerged}-Uh, these pipes can be pretty noisy. -[Miss Piggy] Hi-yah!
+Dialogue: 0,0:16:17.81,0:16:19.47,*Default,NTP,0,0,0,,{\rMerged}[exclaims]
+Dialogue: 0,0:16:19.56,0:16:20.56,Default,,0,0,0,,他在哪里？\N{\rMerged}Where is he?
+Dialogue: 0,0:16:20.65,0:16:21.65,Default,,0,0,0,,（更衣室）\N{\rMerged}Wow, the door wasn't even locked.
+Dialogue: 0,0:16:21.73,0:16:23.11,Default,,0,0,0,,门根本没上锁
+Dialogue: 0,0:16:23.19,0:16:25.57,Default,,0,0,0,,我知道你在这里，青蛙\N{\rMerged}I know you're here, frog.
+Dialogue: 0,0:16:25.65,0:16:26.86,Default,,0,0,0,,猪小姐？\N{\rMerged}-[Kermit whimpering] -Miss Piggy?
+Dialogue: 0,0:16:26.94,0:16:29.91,Default,,0,0,0,,你一定听到腻了，其实我之前就想跟你说\N{\rMerged}I'm sure you get this all the time, I actually meant to tell you earlier,
+Dialogue: 0,0:16:29.99,0:16:31.49,Default,,0,0,0,,你是我的偶像\N{\rMerged}but you're my idol.
+Dialogue: 0,0:16:31.57,0:16:33.11,*Default,NTP,0,0,0,,{\rMerged}-Aw. -Yeah,
+Dialogue: 0,0:16:32.58,0:16:36.45,Default,,0,0,0,,对，我的打扮和风格都是模仿你的\N{\rMerged}I basically, like, modeled my whole look and style after you.
+Dialogue: 0,0:16:36.54,0:16:40.96,Default,,0,0,0,,相信我，我跟我的律师团已经注意到 我们会跟你联系的\N{\rMerged}Oh, trust me. My attorneys and I have taken notice, and we will be in touch.
+Dialogue: 0,0:16:41.04,0:16:45.83,*Default,NTP,0,0,0,,{\rMerged}Aw. And I'll make sure my attorneys respond… to your attorneys.
+Dialogue: 0,0:16:42.21,0:16:45.84,Default,,0,0,0,,我会确保我的律师团回应…你的律师团的
+Dialogue: 0,0:16:45.92,0:16:47.34,*Default,NTP,0,0,0,,{\rMerged}[Kermit whimpers, groans]
+Dialogue: 0,0:16:47.42,0:16:48.63,Default,,0,0,0,,你有听到吗？\N{\rMerged}Did you hear that?
+Dialogue: 0,0:16:49.22,0:16:52.55,Default,,0,0,0,,科米说剧院很老旧，管线有点吵\N{\rMerged}Oh, Kermit said the theater is really old and the pipes are a little noisy.
+Dialogue: 0,0:16:52.64,0:16:55.51,Default,,0,0,0,,是吗？科米还说了什么？\N{\rMerged}Oh, really? What else did Kermit say?
+Dialogue: 0,0:16:55.60,0:16:57.98,Default,,0,0,0,,他有提到他删掉我重要的表演了吗？\N{\rMerged}Did he mention he cut my big number from the show?
+Dialogue: 0,0:16:58.06,0:17:00.06,Default,,0,0,0,,什么？不，太扯了\N{\rMerged}What? No. That-That's crazy.
+Dialogue: 0,0:17:00.14,0:17:02.23,Default,,0,0,0,,没有猪小姐的表演 就不叫《大青蛙布偶秀》\N{\rMerged}There's no Muppet Show without a Miss Piggy number.
+Dialogue: 0,0:17:02.31,0:17:03.65,Default,,0,0,0,,一点也没错\N{\rMerged}-Exactly. -[Carpenter chuckles]
+Dialogue: 0,0:17:03.73,0:17:05.36,Default,,0,0,0,,真希望他能亲耳听到\N{\rMerged}If only he were around to hear that.
+Dialogue: 0,0:17:05.44,0:17:07.24,Default,,0,0,0,,门好重\N{\rMerged}[Kermit, straining] Door's heavy.
+Dialogue: 0,0:17:07.32,0:17:08.69,Default,,0,0,0,,真遗憾\N{\rMerged}I am so sorry.
+Dialogue: 0,0:17:08.78,0:17:12.11,Default,,0,0,0,,你不该失去任何一秒的上镜时间 你是传奇人物\N{\rMerged}You don't deserve to lose one second of screen time. You are an icon.
+Dialogue: 0,0:17:12.20,0:17:15.66,Default,,0,0,0,,别说了，你太窝心了，继续\N{\rMerged}-Oh, stop it. You're too sweet. Go on. -[chuckles]
+Dialogue: 0,0:17:16.41,0:17:20.12,Default,,0,0,0,,我从小看你的表演长大 我爸妈从小看你的表演长大\N{\rMerged}Oh, I mean, I grew up watching you, my parents grew up watching you,
+Dialogue: 0,0:17:20.21,0:17:23.33,Default,,0,0,0,,-他们的爸妈从小… -好，见面会结束了\N{\rMerged}-their parents grew up watching… -Okay! Meet-and-greet over.
+Dialogue: 0,0:17:23.42,0:17:25.17,Default,,0,0,0,,要是科米敢现身\N{\rMerged}-[Kermit groaning] -If Kermit ever shows his face,
+Dialogue: 0,0:17:25.25,0:17:29.34,Default,,0,0,0,,你跟他说，我要在这场秀献唱\N{\rMerged}you let him know. I am going to sing in this show!
+Dialogue: 0,0:17:30.21,0:17:33.71,*Default,NTP,0,0,0,,{\rMerged}-[Kermit whimpers] Help me. -Oh, no! That's right.
+Dialogue: 0,0:17:31.22,0:17:33.72,Default,,0,0,0,,-帮帮我 -不，对哦
+Dialogue: 0,0:17:34.30,0:17:35.85,Default,,0,0,0,,你还好吗？抱歉\N{\rMerged}-[Kermit groaning] -Are you okay? Sorry.
+Dialogue: 0,0:17:35.93,0:17:37.01,Default,,0,0,0,,我忘了你在底下\N{\rMerged}I forgot you were down there.
+Dialogue: 0,0:17:37.10,0:17:39.48,Default,,0,0,0,,我没事，莎宾娜，我…\N{\rMerged}-Hey, I'm fine, Sabrina. Yeah, I… -[sighs]
+Dialogue: 0,0:17:39.56,0:17:40.98,Default,,0,0,0,,这种事比你想像的更常见\N{\rMerged}It happens a lot more than you'd think.
+Dialogue: 0,0:17:41.56,0:17:42.69,Default,,0,0,0,,斯库特\N{\rMerged}Uh, Scooter!
+Dialogue: 0,0:17:42.77,0:17:45.40,Default,,0,0,0,,你知道流程的，再弄扇门进来吧\N{\rMerged}You know the drill. Let's get another door in here.
+Dialogue: 0,0:17:45.48,0:17:46.61,Default,,0,0,0,,已经在处理了，老大\N{\rMerged}Already on it, boss.
+Dialogue: 0,0:17:47.60,0:17:48.60,*Default,NTP,0,0,0,,{\rMerged}[chuckles]
+Dialogue: 0,0:17:48.69,0:17:51.15,Default,,0,0,0,,其实我见过科米几次\N{\rMerged}-[snores] -I've actually met Kermit a few times.
+Dialogue: 0,0:17:51.24,0:17:52.74,Default,,0,0,0,,他真的非常讨喜\N{\rMerged}He's actually really lovely.
+Dialogue: 0,0:17:53.24,0:17:55.45,Default,,0,0,0,,我见过一大堆名人\N{\rMerged}-I mean, I've met a ton of celebrities. -[groaning]
+Dialogue: 0,0:17:55.53,0:17:56.74,Default,,0,0,0,,很多都是混蛋\N{\rMerged}A lot of jerks.
+Dialogue: 0,0:17:56.82,0:17:59.16,*Default,NTP,0,0,0,,{\rMerged}-[groaning] -But not Kermit.
+Dialogue: 0,0:17:58.16,0:17:59.16,Default,,0,0,0,,但科米不是
+Dialogue: 0,0:17:59.66,0:18:03.62,Default,,0,0,0,,-我是大混蛋吗？ -对，但没那么大啦\N{\rMerged}-Was I a big jerk? -I mean, yes. But not that big.
+Dialogue: 0,0:18:03.70,0:18:05.50,*Default,NTP,0,0,0,,{\rMerged}Mmm? [sighs]
+Dialogue: 0,0:18:05.59,0:18:06.79,Default,,0,0,0,,对了，我是玛雅\N{\rMerged}-Oh, I'm Maya by the way. -Mmm?
+Dialogue: 0,0:18:08.12,0:18:09.13,*Default,NTP,0,0,0,,{\rMerged}[grunts]
+Dialogue: 0,0:18:10.54,0:18:11.54,*Default,NTP,0,0,0,,{\rMerged}[kisses]
+Dialogue: 0,0:18:12.75,0:18:13.75,*Default,NTP,0,0,0,,{\rMerged}Mm-hmm.
+Dialogue: 0,0:18:21.77,0:18:24.98,Default,,0,0,0,,欢迎来到布偶实验室，未来的诞生之地\N{\rMerged}Welcome to Muppet Labs, where the future is being made today.
+Dialogue: 0,0:18:25.06,0:18:29.82,Default,,0,0,0,,我是邦森蜜瓜博士 这位是我无畏的助手倒楣鬼\N{\rMerged}I'm Dr. Bunsen Honeydew, and this is my fearless assistant Beaker.
+Dialogue: 0,0:18:29.90,0:18:31.36,*Default,NTP,0,0,0,,{\rMerged}[screams]
+Dialogue: 0,0:18:33.36,0:18:34.90,*Default,NTP,0,0,0,,{\rMerged}Hmm. [clicks tongue]
+Dialogue: 0,0:18:34.99,0:18:38.24,Default,,0,0,0,,今天我们要对抗一种现代流行病：分心\N{\rMerged}Today we tackle a modern epidemic: distraction.
+Dialogue: 0,0:18:38.99,0:18:42.20,Default,,0,0,0,,这年头，一切都在争夺你的目光\N{\rMerged}-[whimpering] -These days,\N{\rMerged}everything is competing for your eyeballs.
+Dialogue: 0,0:18:42.29,0:18:45.54,Default,,0,0,0,,移动设备、电视，还有我们不看它们时\N{\rMerged}Mobile devices, televisions and the day-to-day terrors
+Dialogue: 0,0:18:45.63,0:18:49.30,Default,,0,0,0,,不断占据我们脑海的日常恐惧\N{\rMerged}that consume our brains when we aren't looking at the first two.
+Dialogue: 0,0:18:49.38,0:18:52.17,Default,,0,0,0,,现在你可以轻松地集中精力\N{\rMerged}Well, now you can focus effortlessly
+Dialogue: 0,0:18:52.26,0:18:55.68,Default,,0,0,0,,只要有我最新的发明“专心汁汁”\N{\rMerged}thanks to my latest invention, "Focus Pocus."
+Dialogue: 0,0:18:56.30,0:18:58.47,Default,,0,0,0,,每只眼睛滴一滴这种精华液\N{\rMerged}-[whimpers] -One drop of this serum per eye,
+Dialogue: 0,0:18:58.55,0:19:01.43,Default,,0,0,0,,你的专注力就会指数级增长\N{\rMerged}and your attention span will multiply exponentially.
+Dialogue: 0,0:19:01.51,0:19:02.97,*Default,NTP,0,0,0,,{\rMerged}[gasps, meeps]
+Dialogue: 0,0:19:03.52,0:19:05.77,Default,,0,0,0,,倒楣鬼，回来，坐在凳子上\N{\rMerged}[stammers] Beaker, come back, come back. Sit on the stool.
+Dialogue: 0,0:19:06.31,0:19:08.15,Default,,0,0,0,,-什么？ -对，很好\N{\rMerged}-Huh? -That's it. Good. Now,
+Dialogue: 0,0:19:08.23,0:19:10.32,Default,,0,0,0,,我要轻轻地把凳子降低\N{\rMerged}I'm gonna just lower the stool gently.
+Dialogue: 0,0:19:11.86,0:19:13.07,Default,,0,0,0,,来吧\N{\rMerged}-[meeping, breathing heavily] -There, there we go.
+Dialogue: 0,0:19:13.15,0:19:15.32,Default,,0,0,0,,小小一滴，我一点都不会痛\N{\rMerged}A little teeny drop. This won't hurt me at all.
+Dialogue: 0,0:19:15.40,0:19:16.53,*Default,NTP,0,0,0,,{\rMerged}[Beaker whimpering]
+Dialogue: 0,0:19:16.61,0:19:18.87,Default,,0,0,0,,好了，没事了\N{\rMerged}-There we go. There, there, there. -[whimpering]
+Dialogue: 0,0:19:20.79,0:19:24.50,Default,,0,0,0,,哎呀，这效果可能有一点太强了\N{\rMerged}Oh, dear. That might've been just a teensy bit too strong.
+Dialogue: 0,0:19:24.58,0:19:27.83,*Default,NTP,0,0,0,,{\rMerged}-[mutters] -[whimpering]
+Dialogue: 0,0:19:29.25,0:19:31.58,*Default,NTP,0,0,0,,{\rMerged}-[meeping] -Hmm.
+Dialogue: 0,0:19:31.67,0:19:33.80,Default,,0,0,0,,我可能没把它稀释得当\N{\rMerged}Maybe I neglected to dilute it properly.
+Dialogue: 0,0:19:33.88,0:19:36.01,Default,,0,0,0,,我看看，我把它写在哪里了？\N{\rMerged}Now, let's see. Where did I write that down?
+Dialogue: 0,0:19:35.50,0:19:37.51,*Default,NTP,0,0,0,,{\rMerged}[whimpering, gasps]
+Dialogue: 0,0:19:38.67,0:19:39.67,*Default,NTP,0,0,0,,{\rMerged}[sighs]
+Dialogue: 0,0:19:40.38,0:19:42.76,*Default,NTP,0,0,0,,{\rMerged}-[meeping, whimpering] -Oh, this is interesting.
+Dialogue: 0,0:19:41.51,0:19:42.77,Default,,0,0,0,,真有意思
+Dialogue: 0,0:19:42.85,0:19:44.23,Default,,0,0,0,,这标注了“紧急”\N{\rMerged}This one's marked urgent.
+Dialogue: 0,0:19:44.98,0:19:45.98,Default,,0,0,0,,应该没关系\N{\rMerged}Hmm. I'm sure that's fine.
+Dialogue: 0,0:19:46.06,0:19:49.89,*Default,NTP,0,0,0,,{\rMerged}[screaming]
+Dialogue: 0,0:19:50.61,0:19:54.24,Default,,0,0,0,,倒楣鬼…倒楣鬼，停下来\N{\rMerged}Oh, Beaker. Beaker. Beaker, stop it. Stop it!
+Dialogue: 0,0:19:55.07,0:19:57.32,Default,,0,0,0,,-真令人振奋 -令人振奋\N{\rMerged}-It's so inspiring. -Inspiring.
+Dialogue: 0,0:19:57.41,0:19:59.95,Default,,0,0,0,,我觉得我充满活力\N{\rMerged}-I feel alive, you know? -Mm-hmm.
+Dialogue: 0,0:20:00.03,0:20:01.91,Default,,0,0,0,,身为表演者…\N{\rMerged}I mean, as a performer…
+Dialogue: 0,0:20:03.66,0:20:06.83,Default,,0,0,0,,玛雅？玛雅\N{\rMerged}Maya? Maya? M-Maya!
+Dialogue: 0,0:20:07.37,0:20:08.37,Default,,0,0,0,,斯库特\N{\rMerged}-[Muppets clamoring] -Scooter,
+Dialogue: 0,0:20:08.46,0:20:10.42,Default,,0,0,0,,我妈咪今晚也在观众席\N{\rMerged}my mommy's in the audience tonight.
+Dialogue: 0,0:20:10.50,0:20:12.50,Default,,0,0,0,,我什么时候上台？斯库特\N{\rMerged}When do I go on? Scooter! Scooter!
+Dialogue: 0,0:20:12.59,0:20:14.46,Default,,0,0,0,,我马上就准备好，只要…\N{\rMerged}-I will be ready as soon as I do my… -[muttering]
+Dialogue: 0,0:20:16.47,0:20:19.47,Default,,0,0,0,,哇，你还好吗，科米？\N{\rMerged}-Oh, wow. Like, are you okay, Kermit? -[exclaims]
+Dialogue: 0,0:20:19.55,0:20:20.93,Default,,0,0,0,,还好\N{\rMerged}[stutters] Yeah.
+Dialogue: 0,0:20:21.01,0:20:22.89,Default,,0,0,0,,因为你看起来有点紧绷\N{\rMerged}'Cause you seem a little wound up.
+Dialogue: 0,0:20:22.97,0:20:26.39,Default,,0,0,0,,你的脉轮完全失去平衡了\N{\rMerged}Like, like your chakras are, like, totally out of whack.
+Dialogue: 0,0:20:27.06,0:20:29.48,Default,,0,0,0,,你说得对，我确实有点压力\N{\rMerged}[grunts] You're right. I guess I am a little stressed.
+Dialogue: 0,0:20:30.15,0:20:31.19,Default,,0,0,0,,谢谢你的关心\N{\rMerged}[chuckles] Thanks for checking in.
+Dialogue: 0,0:20:31.27,0:20:37.32,Default,,0,0,0,,好说，因为我能感应气场 而你的气场很糟糕\N{\rMerged}Oh, for sure. 'Cause you know, like, I can read auras, and yours is, like, bad.
+Dialogue: 0,0:20:39.07,0:20:40.99,Default,,0,0,0,,-是吗？ -是的\N{\rMerged}-It is? -Oh, totally.
+Dialogue: 0,0:20:41.07,0:20:42.99,Default,,0,0,0,,我们要吸气…\N{\rMerged}And we're breathing in… [inhales deeply]
+Dialogue: 0,0:20:44.20,0:20:46.83,Default,,0,0,0,,要这么做是吗？\N{\rMerged}[stammering] Oh, is that what we're doing? Uh… [inhales deeply]
+Dialogue: 0,0:20:49.54,0:20:52.21,Default,,0,0,0,,贾妮斯？我能吐气了吗？\N{\rMerged}[straining] Janice? Can I breathe out yet?
+Dialogue: 0,0:20:52.79,0:20:55.62,*Default,NTP,0,0,0,,{\rMerged}[exhales sharply] Hmm? Janice?
+Dialogue: 0,0:20:55.05,0:20:56.05,Default,,0,0,0,,贾妮斯？
+Dialogue: 0,0:20:56.54,0:21:00.38,*Default,NTP,0,0,0,,{\rMerged}Oh. Huh. Actually, that did make me feel a bit better.
+Dialogue: 0,0:20:58.05,0:21:00.38,Default,,0,0,0,,其实，我确实觉得好一点了
+Dialogue: 0,0:21:00.93,0:21:02.60,Default,,0,0,0,,仿佛情况即将好转\N{\rMerged}[chuckles] Almost like things are gonna be okay.
+Dialogue: 0,0:21:03.39,0:21:05.47,Default,,0,0,0,,为您插播《布偶快讯》\N{\rMerged}This is a Muppet Newsflash.
+Dialogue: 0,0:21:05.56,0:21:08.93,Default,,0,0,0,,曾获艾美奖的喜剧天后玛雅鲁道夫死了\N{\rMerged}Emmy award-winning comedy icon Maya Rudolph is dead.
+Dialogue: 0,0:21:11.44,0:21:12.44,Default,,0,0,0,,什么？\N{\rMerged}Huh?
+Dialogue: 0,0:21:13.11,0:21:16.61,Default,,0,0,0,,我看到那道光，那里有一条灵魂之河\N{\rMerged}I saw the light, and there was a river of souls.
+Dialogue: 0,0:21:16.69,0:21:19.03,Default,,0,0,0,,还有一道火墙\N{\rMerged}And a… a wall of flames.
+Dialogue: 0,0:21:19.11,0:21:21.66,Default,,0,0,0,,我本来在为一个红衣男 准备颁奖典礼开场白\N{\rMerged}And I was doing award show patter for a man in red.
+Dialogue: 0,0:21:23.45,0:21:25.70,Default,,0,0,0,,听起来像天堂，对吧？\N{\rMerged}-That sounds like heaven. Right? -[whimpers, grunts]
+Dialogue: 0,0:21:26.99,0:21:30.21,Default,,0,0,0,,我修正，曾获艾美奖的 喜剧天后玛雅鲁道夫活着\N{\rMerged}Correction. Emmy award-winning comedy icon Maya Rudolph is alive.
+Dialogue: 0,0:21:30.29,0:21:31.29,Default,,0,0,0,,（玛雅鲁道夫死亡）
+Dialogue: 0,0:21:31.37,0:21:32.37,Default,,0,0,0,,（玛雅鲁道夫活着）\N{\rMerged}A thing fell on her and made her be alive again.
+Dialogue: 0,0:21:32.46,0:21:34.54,Default,,0,0,0,,有东西掉到她身上，让她复活了
+Dialogue: 0,0:21:34.63,0:21:37.00,Default,,0,0,0,,请继续关注更多重磅新闻\N{\rMerged}Stay tuned for more hard-hitting news.
+Dialogue: 0,0:21:37.09,0:21:40.22,Default,,0,0,0,,…琥碧戈柏、安洁莉卡休斯顿 克萝丽丝莉姬曼\N{\rMerged}…Whoopi Goldberg, Anjelica Huston, Cloris Leachman.
+Dialogue: 0,0:21:40.29,0:21:42.84,*Default,NTP,0,0,0,,{\rMerged}Hmm. Show's not half bad.
+Dialogue: 0,0:21:41.38,0:21:42.84,Default,,0,0,0,,这场秀不算糟
+Dialogue: 0,0:21:42.93,0:21:44.60,Default,,0,0,0,,对，是糟透了\N{\rMerged}Yeah, it's all bad.
+Dialogue: 0,0:21:45.13,0:21:47.22,*Default,NTP,0,0,0,,{\rMerged}[laughing]
+Dialogue: 0,0:21:48.59,0:21:51.31,*Default,NTP,0,0,0,,{\rMerged}[♪ "Islands in the Stream" playing]
+Dialogue: 0,0:21:51.39,0:21:58.35,*Default,NTP,0,0,0,,{\rMerged}♪ La, la La, la ♪
+Dialogue: 0,0:21:58.86,0:22:03.32,Default,,0,0,0,,宝贝，当我遇见你，我心从未如此平静\N{\rMerged}♪ Baby, when I met you There was peace unknown ♪
+Dialogue: 0,0:22:03.41,0:22:07.95,Default,,0,0,0,,我细心周到地追求你\N{\rMerged}♪ I set out to get you With a fine tooth comb ♪
+Dialogue: 0,0:22:08.04,0:22:10.66,Default,,0,0,0,,我的心变得温柔\N{\rMerged}♪ I was soft inside ♪
+Dialogue: 0,0:22:10.75,0:22:14.29,Default,,0,0,0,,美好之事正在发生\N{\rMerged}-♪ There was something going on ♪ -[singers] ♪ Ooh ♪
+Dialogue: 0,0:22:15.79,0:22:17.96,*Default,NTP,0,0,0,,{\rMerged}♪ La, la ♪
+Dialogue: 0,0:22:18.05,0:22:23.84,Default,,0,0,0,,你对我有无法解释的影响\N{\rMerged}[both] ♪ You do something to me That I can't explain ♪
+Dialogue: 0,0:22:23.93,0:22:27.47,Default,,0,0,0,,紧紧抱着我，我就不会感到痛苦\N{\rMerged}♪ Hold me closer and I feel no pain ♪
+Dialogue: 0,0:22:27.56,0:22:30.31,Default,,0,0,0,,我心脏的每次跳动\N{\rMerged}♪ Every beat of my heart ♪
+Dialogue: 0,0:22:30.39,0:22:34.19,Default,,0,0,0,,都是我们的爱在萌芽\N{\rMerged}-♪ We got something going on ♪ -[singers] ♪ Ooh ♪
+Dialogue: 0,0:22:35.52,0:22:37.14,*Default,NTP,0,0,0,,{\rMerged}♪ La, la ♪
+Dialogue: 0,0:22:37.23,0:22:39.53,Default,,0,0,0,,溪流中的岛屿\N{\rMerged}♪ Islands in the stream ♪
+Dialogue: 0,0:22:39.61,0:22:41.61,Default,,0,0,0,,就是我们的写照\N{\rMerged}♪ That is what we are ♪
+Dialogue: 0,0:22:41.69,0:22:46.53,Default,,0,0,0,,没人能介入，我们的爱怎会有错？\N{\rMerged}♪ No one in between How can we be wrong? ♪
+Dialogue: 0,0:22:46.62,0:22:48.78,Default,,0,0,0,,与我一同扬帆\N{\rMerged}-♪ Sail away with me ♪ -[Miss Piggy grunting]
+Dialogue: 0,0:22:49.37,0:22:51.70,Default,,0,0,0,,航向另一个世界\N{\rMerged}♪ To another world ♪
+Dialogue: 0,0:22:51.79,0:22:56.63,Default,,0,0,0,,-我们互相依赖 -你休想删掉我的戏份\N{\rMerged}-♪ And we rely on each other, ah ha ♪ -You're not gonna cut me from the show.
+Dialogue: 0,0:22:56.71,0:23:01.05,Default,,0,0,0,,水手间的承诺\N{\rMerged}♪ From one sailor to another, ah ha ♪
+Dialogue: 0,0:23:01.13,0:23:02.38,*Default,NTP,0,0,0,,{\rMerged}[grunting, panting]
+Dialogue: 0,0:23:02.46,0:23:07.34,Default,,0,0,0,,若这爱的小船不在，我将无法独活\N{\rMerged}♪ I can't live without you If this boat was gone ♪
+Dialogue: 0,0:23:07.43,0:23:09.14,Default,,0,0,0,,如果没人陪伴\N{\rMerged}♪ Everything is nothing ♪
+Dialogue: 0,0:23:09.22,0:23:11.72,Default,,0,0,0,,一切都是虚无\N{\rMerged}-♪ If you've got no one ♪ -[pants, screams]
+Dialogue: 0,0:23:11.81,0:23:17.98,Default,,0,0,0,,你只会在夜里划行，逐渐看不见真爱\N{\rMerged}♪ And you just row in the night Slowly losing sight of the real thing ♪
+Dialogue: 0,0:23:18.06,0:23:19.90,Default,,0,0,0,,真爱\N{\rMerged}♪ The real thing ♪
+Dialogue: 0,0:23:19.98,0:23:23.86,*Default,NTP,0,0,0,,{\rMerged}-[vocalizes] -[grunts]
+Dialogue: 0,0:23:25.11,0:23:26.11,*Default,NTP,0,0,0,,{\rMerged}[exclaims]
+Dialogue: 0,0:23:28.78,0:23:33.87,Default,,0,0,0,,但我们不会碰上，我们深信不疑\N{\rMerged}♪ But that won't happen to us And we've got no doubt ♪
+Dialogue: 0,0:23:33.95,0:23:38.83,Default,,0,0,0,,此刻你在船上，而我惊慌失措\N{\rMerged}♪ Now you're in this boat And I am freaking out ♪
+Dialogue: 0,0:23:38.92,0:23:40.92,Default,,0,0,0,,这讯息再清晰不过\N{\rMerged}♪ And the message is clear ♪
+Dialogue: 0,0:23:41.00,0:23:44.67,Default,,0,0,0,,今年或许就是真爱降临之年\N{\rMerged}♪ This could be the year For the real thing ♪
+Dialogue: 0,0:23:44.76,0:23:46.47,Default,,0,0,0,,真爱\N{\rMerged}-♪ The real thing ♪ -♪ La, la ♪
+Dialogue: 0,0:23:47.68,0:23:50.01,Default,,0,0,0,,-溪流中的岛屿 -岛屿\N{\rMerged}-♪ Islands in the stream ♪ -♪ In the stream ♪
+Dialogue: 0,0:23:50.10,0:23:52.51,Default,,0,0,0,,-就是我们的写照 -一同扬帆\N{\rMerged}-♪ That is what we are ♪ -♪ Sail away, sail away ♪
+Dialogue: 0,0:23:52.60,0:23:54.48,Default,,0,0,0,,没人能介入\N{\rMerged}♪ No one in between ♪
+Dialogue: 0,0:23:55.06,0:23:57.19,Default,,0,0,0,,我们的爱怎会有错？\N{\rMerged}-♪ How can we be wrong? ♪ -[grunts]
+Dialogue: 0,0:23:57.27,0:23:59.90,Default,,0,0,0,,-与我一同扬帆 -一同扬帆\N{\rMerged}-♪ Sail away with me ♪ -♪ Sail away ♪
+Dialogue: 0,0:23:59.98,0:24:02.36,Default,,0,0,0,,航向另一个世界\N{\rMerged}♪ To another world ♪
+Dialogue: 0,0:24:02.44,0:24:05.28,Default,,0,0,0,,我们互相依赖\N{\rMerged}-♪ And we rely on each other, ah ha ♪ -♪ Ah ha ♪
+Dialogue: 0,0:24:07.28,0:24:10.16,Default,,0,0,0,,天后间的承诺\N{\rMerged}-♪ From one diva to another, ah ha ♪ -♪ Ah ha ♪
+Dialogue: 0,0:24:13.66,0:24:14.66,*Default,NTP,0,0,0,,{\rMerged}[audience cheering]
+Dialogue: 0,0:24:20.58,0:24:22.41,*Default,NTP,0,0,0,,{\rMerged}-[muttering] -Oh.
+Dialogue: 0,0:24:22.50,0:24:23.50,Default,,0,0,0,,你好\N{\rMerged}-Hi. -Hmm?
+Dialogue: 0,0:24:23.59,0:24:27.51,Default,,0,0,0,,我必须说，跟你合唱一直是我的梦想\N{\rMerged}I just have to say singing a duet with you
+Dialogue: 0,0:24:25.88,0:24:27.96,*Default,NTP,0,0,0,,{\rMerged}-has always been a dream of mine. -Mmm.
+Dialogue: 0,0:24:28.05,0:24:30.39,Default,,0,0,0,,现在我做到了，而我还这么年轻\N{\rMerged}And now I've done it, and I'm still so young.
+Dialogue: 0,0:24:30.97,0:24:34.89,Default,,0,0,0,,对，跟我一样，我很年轻，非常年轻\N{\rMerged}Yes! Just like me! I'm young. Very.
+Dialogue: 0,0:24:34.97,0:24:38.64,Default,,0,0,0,,看看我们，两个正值巅峰的年轻新星\N{\rMerged}Look at us, two young ingenues at the top of their game.
+Dialogue: 0,0:24:38.72,0:24:39.97,*Default,NTP,0,0,0,,{\rMerged}[laughing]
+Dialogue: 0,0:24:40.06,0:24:43.31,*Default,NTP,0,0,0,,{\rMerged}[both laughing]
+Dialogue: 0,0:24:43.39,0:24:44.65,*Default,NTP,0,0,0,,{\rMerged}[sighs]
+Dialogue: 0,0:24:45.82,0:24:48.53,Default,,0,0,0,,这代表我们没事了吗？\N{\rMerged}Well, um… Does this mean we're… we're good then?
+Dialogue: 0,0:24:48.61,0:24:51.07,Default,,0,0,0,,你不会控告我剽窃你的造型吧？\N{\rMerged}You're not gonna try to sue me for stealing your look?
+Dialogue: 0,0:24:51.16,0:24:53.41,Default,,0,0,0,,这叫侵犯著作权，亲爱的\N{\rMerged}It's called copyright infringement, sweetie.
+Dialogue: 0,0:24:53.49,0:24:55.83,Default,,0,0,0,,当然不会告你了\N{\rMerged}-And of course not! -[chuckling] Oh.
+Dialogue: 0,0:24:56.95,0:24:58.87,Default,,0,0,0,,真的要由律师团决定\N{\rMerged}That's really for the lawyers to decide.
+Dialogue: 0,0:24:59.95,0:25:01.25,*Default,NTP,0,0,0,,{\rMerged}[Muppets clamoring]
+Dialogue: 0,0:25:01.33,0:25:03.09,Default,,0,0,0,,我正在竭尽所能\N{\rMerged}[Kermit] I'm trying to do the best I can.
+Dialogue: 0,0:25:04.04,0:25:06.42,Default,,0,0,0,,…其中一项表演，我们尽量公平\N{\rMerged}…one of the acts. We're trying to be fair.
+Dialogue: 0,0:25:06.92,0:25:09.30,Default,,0,0,0,,-我们尽量公平对待大家 -我知道\N{\rMerged}-We're trying to be fair to everybody. -I know. No, I know.
+Dialogue: 0,0:25:09.38,0:25:10.80,Default,,0,0,0,,好，大家都别说了\N{\rMerged}-Okay, everybody, stop! -[gasps]
+Dialogue: 0,0:25:12.30,0:25:15.76,Default,,0,0,0,,只剩一项表演的时间了\N{\rMerged}[sighs] There is only time for one more act.
+Dialogue: 0,0:25:15.85,0:25:17.64,Default,,0,0,0,,-什么？ -一项？\N{\rMerged}-[Muppets mutter] What? -One more?
+Dialogue: 0,0:25:17.73,0:25:19.31,Default,,0,0,0,,但是哪一项，老大？\N{\rMerged}-But which one, boss? -Hmm?
+Dialogue: 0,0:25:19.39,0:25:21.31,Default,,0,0,0,,你要怎么选？\N{\rMerged}How are you gonna choose?
+Dialogue: 0,0:25:21.40,0:25:23.65,Default,,0,0,0,,他们怎么这么慢？\N{\rMerged}-[audience whispering] -What's taking them so long?
+Dialogue: 0,0:25:25.27,0:25:27.02,*Default,NTP,0,0,0,,{\rMerged}[Muppets clamoring]
+Dialogue: 0,0:25:30.53,0:25:33.45,Default,,0,0,0,,听着，你们信任我吗？\N{\rMerged}Look, do you trust me?
+Dialogue: 0,0:25:33.53,0:25:38.91,Default,,0,0,0,,我们当然信任你，科米 这家伙可能不信啦\N{\rMerged}Well, of course we do, Kermit. I mean, maybe not this guy.
+Dialogue: 0,0:25:40.54,0:25:41.87,Default,,0,0,0,,我以前吃过亏\N{\rMerged}I been burned before.
+Dialogue: 0,0:25:43.92,0:25:47.13,Default,,0,0,0,,好…给我一分钟，好吗？\N{\rMerged}[sighs] Okay, uh… [stammers] Give me a minute, okay?
+Dialogue: 0,0:25:47.21,0:25:49.26,Default,,0,0,0,,-你要去哪里？等等… -好，借过，抱歉\N{\rMerged}-Where you going? Wait… -[Kermit] Yeah. Excuse me. I'm sorry.
+Dialogue: 0,0:25:49.34,0:25:51.76,Default,,0,0,0,,-他…要做什么？ -科米？\N{\rMerged}-What… What's he gonna do? -Kermit?
+Dialogue: 0,0:25:52.80,0:25:53.80,*Default,NTP,0,0,0,,{\rMerged}[audience applauds]
+Dialogue: 0,0:25:55.64,0:25:59.48,Default,,0,0,0,,大家好，目前为止都还好吗？\N{\rMerged}Hey there, folks. Uh, how you all doing so far?
+Dialogue: 0,0:26:00.43,0:26:02.10,*Default,NTP,0,0,0,,{\rMerged}Ooh. Um… [chuckles]
+Dialogue: 0,0:26:02.19,0:26:06.27,Default,,0,0,0,,我不能说这场秀完全按照计划进行\N{\rMerged}[stammers] I can't say that the show has gone exactly the way we planned.
+Dialogue: 0,0:26:06.36,0:26:08.94,Default,,0,0,0,,洁美李寇蒂斯、蕾吉娜金恩\N{\rMerged}-Jamie Lee Curtis. Regina King! -[crashes]
+Dialogue: 0,0:26:11.49,0:26:14.45,Default,,0,0,0,,重点是，也许我们有点生疏了\N{\rMerged}Eh, the point is… [stammers] …maybe we're a little rusty.
+Dialogue: 0,0:26:15.16,0:26:18.79,Default,,0,0,0,,但我们承诺要为各位献上精彩大秀\N{\rMerged}But, uh, but we promised to do a great show for you
+Dialogue: 0,0:26:18.87,0:26:23.12,Default,,0,0,0,,希望你们至少能享受部分演出\N{\rMerged}and, uh… [stammers] …I hope that you at least enjoyed some of it.
+Dialogue: 0,0:26:28.96,0:26:30.13,Default,,0,0,0,,现在到了尾声\N{\rMerged}[stammers] Now we're at the end
+Dialogue: 0,0:26:30.21,0:26:34.26,Default,,0,0,0,,各位大概都在猜压轴表演是什么\N{\rMerged}and you're all probably wondering what the final number is.
+Dialogue: 0,0:26:34.34,0:26:36.76,Default,,0,0,0,,其实，我本来应该上来\N{\rMerged}I-In fact, I was supposed to come out here
+Dialogue: 0,0:26:36.85,0:26:39.64,Default,,0,0,0,,宣布在后台等候的表演者之一\N{\rMerged}and announce one of the acts waiting backstage. [chuckles]
+Dialogue: 0,0:26:40.81,0:26:47.02,Default,,0,0,0,,但…很抱歉，我不会那么做\N{\rMerged}But, um… [clears throat] …I'm sorry. Uh, I'm not gonna do that.
+Dialogue: 0,0:26:47.10,0:26:49.56,*Default,NTP,0,0,0,,{\rMerged}[murmuring]
+Dialogue: 0,0:26:49.65,0:26:51.94,Default,,0,0,0,,看吧？没人靠得住\N{\rMerged}-See? Can't trust anyone. -[gasps]
+Dialogue: 0,0:26:52.52,0:26:53.65,*Default,NTP,0,0,0,,{\rMerged}Mmm.
+Dialogue: 0,0:26:56.99,0:26:59.28,Default,,0,0,0,,今晚\N{\rMerged}♪ Tonight ♪
+Dialogue: 0,0:26:59.37,0:27:05.25,Default,,0,0,0,,我们将尽情享受真正的美好时光\N{\rMerged}♪ We're gonna have ourselves A real good time ♪
+Dialogue: 0,0:27:05.33,0:27:11.21,Default,,0,0,0,,我充满了活力\N{\rMerged}♪ I feel alive ♪
+Dialogue: 0,0:27:13.22,0:27:18.72,Default,,0,0,0,,我要翻转整个世界\N{\rMerged}♪ And the world I'll turn it inside out ♪
+Dialogue: 0,0:27:18.80,0:27:20.10,Default,,0,0,0,,好耶\N{\rMerged}Yeah.
+Dialogue: 0,0:27:20.18,0:27:24.10,Default,,0,0,0,,我漂浮在狂喜之中\N{\rMerged}♪ I'm floating around in ecstasy ♪
+Dialogue: 0,0:27:24.18,0:27:25.56,Default,,0,0,0,,所以…\N{\rMerged}[Muppets] ♪ So don't-- ♪
+Dialogue: 0,0:27:25.64,0:27:30.82,Default,,0,0,0,,现在别阻止我，别阻止我\N{\rMerged}♪ Stop me now Don't stop me ♪
+Dialogue: 0,0:27:30.90,0:27:33.82,Default,,0,0,0,,因为我们玩得正开心，玩得正开心\N{\rMerged}♪ 'Cause we're having a good time Having a good time ♪
+Dialogue: 0,0:27:33.90,0:27:37.78,Default,,0,0,0,,我是流星，像老虎般跃过天空\N{\rMerged}♪ I'm a shooting star Leaping through the sky like a tiger ♪
+Dialogue: 0,0:27:37.87,0:27:40.87,Default,,0,0,0,,公然违抗地心引力\N{\rMerged}-♪ Defying the laws of gravity, whoo-hoo ♪ -[meeping]
+Dialogue: 0,0:27:41.58,0:27:43.83,Default,,0,0,0,,我是呼啸而过的赛车\N{\rMerged}♪ I'm a racing car passing by ♪
+Dialogue: 0,0:27:43.91,0:27:45.96,Default,,0,0,0,,就像戈黛娃夫人\N{\rMerged}♪ Like Lady Godiva ♪
+Dialogue: 0,0:27:46.04,0:27:52.30,Default,,0,0,0,,我要冲冲冲，因为我完全不想停下来\N{\rMerged}♪ I'm gonna go, go, go 'Cause I don't wanna stop at all ♪
+Dialogue: 0,0:27:52.38,0:27:53.84,Default,,0,0,0,,别阻止我，别阻止我\N{\rMerged}♪ Don't stop me Don't stop me ♪
+Dialogue: 0,0:27:53.92,0:27:55.29,*Default,NTP,0,0,0,,{\rMerged}♪ Ah, ah, ah ♪
+Dialogue: 0,0:27:55.38,0:27:56.84,Default,,0,0,0,,别阻止我，别阻止我\N{\rMerged}♪ Don't stop me Don't stop me ♪
+Dialogue: 0,0:27:56.92,0:27:58.38,*Default,NTP,0,0,0,,{\rMerged}♪ Ooh, ooh, ooh ♪
+Dialogue: 0,0:27:58.47,0:27:59.80,Default,,0,0,0,,别阻止我，别阻止我\N{\rMerged}♪ Don't stop me Don't stop ♪
+Dialogue: 0,0:27:59.88,0:28:01.34,*Default,NTP,0,0,0,,{\rMerged}♪ Whoa, whoa, whoa ♪
+Dialogue: 0,0:28:01.43,0:28:03.02,Default,,0,0,0,,别阻止我，别阻止我\N{\rMerged}♪ Don't stop me Don't stop me ♪
+Dialogue: 0,0:28:03.10,0:28:05.10,Default,,0,0,0,,玩得正开心，开心\N{\rMerged}♪ Have a good time Good time ♪
+Dialogue: 0,0:28:08.56,0:28:10.65,Default,,0,0,0,,别阻止，别阻止\N{\rMerged}Don't stop, don't stop!
+Dialogue: 0,0:28:12.27,0:28:15.32,Default,,0,0,0,,现在别阻止我，因为我玩得正开心\N{\rMerged}♪ Don't stop me now 'Cause I'm having a good time ♪
+Dialogue: 0,0:28:15.40,0:28:16.57,Default,,0,0,0,,现在别阻止我\N{\rMerged}♪ Don't stop me now ♪
+Dialogue: 0,0:28:16.65,0:28:22.78,Default,,0,0,0,,因为我玩得正开心，我完全不想停下来\N{\rMerged}♪ 'Cause I'm having a good time I don't wanna stop at all ♪
+Dialogue: 0,0:28:22.86,0:28:26.87,*Default,NTP,0,0,0,,{\rMerged}[vocalizes]
+Dialogue: 0,0:28:26.95,0:28:29.79,*Default,NTP,0,0,0,,{\rMerged}-[audience cheering] -[chuckles]
+Dialogue: 0,0:28:30.75,0:28:33.30,Default,,0,0,0,,太棒了，我们做到了，好耶\N{\rMerged}That was great! We did it! Yeah!
+Dialogue: 0,0:28:33.96,0:28:36.59,Default,,0,0,0,,其实我有点受不了，他们想删我的表演\N{\rMerged}If I'm being honest, I'm a little insulted they were gonna cut me
+Dialogue: 0,0:28:36.67,0:28:39.05,Default,,0,0,0,,却留着这只穿芭蕾舞裙的犰狳\N{\rMerged}but they kept this armadillo in the tutu in there.
+Dialogue: 0,0:28:40.39,0:28:41.97,Default,,0,0,0,,我根本没看过那家伙\N{\rMerged}Never even seen that guy.
+Dialogue: 0,0:28:42.89,0:28:44.35,Default,,0,0,0,,他不是官方角色\N{\rMerged}That guy's not canon.
+Dialogue: 0,0:28:45.14,0:28:47.27,Default,,0,0,0,,我们的时间差不多到了\N{\rMerged}Well, that's about all the time we have.
+Dialogue: 0,0:28:47.35,0:28:48.77,Default,,0,0,0,,但在结束前\N{\rMerged}But before we go,
+Dialogue: 0,0:28:48.85,0:28:53.32,Default,,0,0,0,,让我们以热烈掌声感谢超棒的嘉宾 莎宾娜卡本特\N{\rMerged}let's give a great big thank you to our incredible guest star, Sabrina Carpenter!
+Dialogue: 0,0:28:53.40,0:28:55.36,Default,,0,0,0,,好耶\N{\rMerged}-[audience cheering] -Yay!
+Dialogue: 0,0:28:55.44,0:28:56.44,Default,,0,0,0,,谢谢你，科米\N{\rMerged}Thank you, Kermit. [chuckles]
+Dialogue: 0,0:28:56.53,0:28:58.82,Default,,0,0,0,,你跟我们非常合拍，莎宾娜\N{\rMerged}Well, you know, uh, you fit right in with us, Sabrina.
+Dialogue: 0,0:28:58.90,0:29:01.66,Default,,0,0,0,,-我们身高一样，很有帮助 -说得好\N{\rMerged}-Well, it helps we're the same height. -[chuckles] Good point!
+Dialogue: 0,0:29:01.74,0:29:03.99,Default,,0,0,0,,黛安薇丝特\N{\rMerged}Dianne Wiest!
+Dialogue: 0,0:29:04.66,0:29:07.12,*Default,NTP,0,0,0,,{\rMerged}Oh. Um… [chuckles] Good night, everybody!
+Dialogue: 0,0:29:06.12,0:29:07.12,Default,,0,0,0,,各位晚安
+Dialogue: 0,0:29:07.20,0:29:09.83,Default,,0,0,0,,下回《大青蛙布偶秀》见\N{\rMerged}We'll see you next time on The Muppet Show!
+Dialogue: 0,0:29:09.91,0:29:11.95,*Default,NTP,0,0,0,,{\rMerged}[Muppets chattering]
+Dialogue: 0,0:29:13.50,0:29:15.34,Default,,0,0,0,,柔伊莎达娜\N{\rMerged}Zoe Saldaña! [yelps]
+Dialogue: 0,0:29:28.10,0:29:31.89,*Default,NTP,0,0,0,,{\rMerged}[audience chattering]
+Dialogue: 0,0:29:50.33,0:29:54.04,Default,,0,0,0,,我的左臂突然刺痛起来，不知道怎么搞的\N{\rMerged}Hmm. I got this sharp pain in my left arm. I wonder what that's about.
+Dialogue: 0,0:29:54.13,0:29:56.42,Default,,0,0,0,,我只能说，绝对不是鼓掌造成的\N{\rMerged}I'll tell you this much, it's not from clapping.
+Dialogue: 0,0:29:56.50,0:29:58.71,*Default,NTP,0,0,0,,{\rMerged}-[exclaims, laughs] Ow. -[laughs]
+Dialogue: 0,0:30:02.72,0:30:04.72,Default,,0,0,0,,字幕翻译：宋梅君
