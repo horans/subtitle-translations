@@ -15,7 +15,7 @@
 
 ## 双语字幕相关
 
-- [双语字幕合并模板](latest-bilingual-subtitle-template.ass)
+- [双语字幕合并模板](bilingual-subtitle-template.ass)
 
 ## 字幕工具
 
